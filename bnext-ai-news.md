@@ -1,8 +1,8 @@
 # bnext AI 新聞摘要總覽
 
 > 來源：[數位時代「AI 與大數據」分類頁](https://www.bnext.com.tw/categories/ai)  
-> 整理日期：2026-08-20  
-> 共計 20 頁、260 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
+> 整理日期：2026-08-26  
+> 共計 20 頁、271 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
 
 ---
 
@@ -10,16 +10,17 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 260 篇 |
-| 本次新增 | 首次建置 |
+| 文章總數 | 271 篇 |
+| 本次新增 | 11 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-08-20 |
+| 更新日期 | 2026-08-26 |
 
 ---
 
 ## 主題分類
 
 ### 產品發布與更新
+- [免費用Gemini一年！Google AI Plus誰能領、怎麼申請？年底前沒領就沒了](https://www.bnext.com.tw/article/91933/google-ai-plus-student-free)
 - [Claude Code快捷鍵+指令大全！13大類速查不用背，從Ctrl+C到多Agent協作一次整理](https://www.bnext.com.tw/article/90925/claude-code-slash-commands-shortcuts-complete-guide)
 - [Claude Code 開始「畫」介面！新增 /design 指令，寫程式前可先挑一張設計稿](https://www.bnext.com.tw/article/91917/claude-code-design-command-early-preview)
 - [2026機器人展登場，機器人概念股有哪些？達明、所羅門殺出一條血路！](https://www.bnext.com.tw/article/91797/ai-application-stocks)
@@ -108,6 +109,9 @@
 - [Claude Opus 4.7提示詞攻略!Anthropic官方曝5大調整,如何讓舊prompt一次升級?](https://www.bnext.com.tw/article/91048/claude-opus-4-7-prompting-guide-for-better-responses)
 
 ### 企業應用案例
+- [禾多移動發表「ONLY AI Agent 平台」：以 AI ERP Agent 終結數據黑洞，引領中小企業全自動化營運](https://www.bnext.com.tw/article/91969/avivid.ai_202608)
+- [對著手機30秒，AI就能來場小健檢？日本新創讓臉變健康感測器，補上健檢後的364天](https://www.bnext.com.tw/article/91954/femshin-ai-check-up)
+- [Berry AI 拿下 Culver's 全美合約：千店部署、連年翻倍](https://www.bnext.com.tw/article/91893/berry_ai_202608)
 - [懂保險的 AI 才有用！國泰人壽數據暨人工智慧發展部如何解開壽險業的 AI 實戰難題](https://www.bnext.com.tw/article/91816/cathaylife_202608)
 - [當AI開始幫消費者做決定，品牌怎麼做？iKala Connection Day揭企業轉型解方](https://www.bnext.com.tw/article/91795/ikala20260810)
 - [iKala 攜手 Google Cloud、Google Ads 打造企業迎向 Agent Economy 的完整藍圖](https://www.bnext.com.tw/article/91738/iKala202608)
@@ -144,6 +148,9 @@
 - [幫富士康、永豐餘做虛擬分身!他導入AI把20人團隊精簡到4人、產能反拉5倍](https://www.bnext.com.tw/article/91049/ai-professionals-rubens)
 
 ### 產業動態與市場
+- [2036年貨幣不重要了？馬斯克預言：AI五年內超越人類智慧的總和，中國靠電力優勢超車](https://www.bnext.com.tw/article/91951/elon-musk-energy)
+- [估值逼近27兆天價！OpenAI內部預告最快2027年上市，財務長稱IPO為「另一次募資」](https://www.bnext.com.tw/article/91932/openai-cfo-friar-2027-ipo-all-hands)
+- [Stripe砸逾70億美元買下OpenRouter！美國支付巨頭為何，重金押注「AI派遣總機」？](https://www.bnext.com.tw/article/91931/stripe-acquires-openrouter-ai-model-gateway)
 - [Claude入門學習地圖！40篇教學、8大主題一次收，Cowork、Skills、省Token秘訣全打包](https://www.bnext.com.tw/article/91080/claude-cowork-skills)
 - [2026機器人展登場，機器人概念股有哪些？達明、所羅門殺出一條血路！](https://www.bnext.com.tw/article/91797/ai-application-stocks)
 - [誰是開源模型一哥？Hugging Face揭2026下載榜單：中國Qwen突破20億次，比Google多5倍](https://www.bnext.com.tw/article/91887/qwen-tops-hugging-face-open-model-ranking-2026)
@@ -252,6 +259,8 @@
 - [從模型競爭走向算力經濟,INFINITIX 助客戶打造軟體定義 AI 基礎建設](https://www.bnext.com.tw/article/91042/infinitix_ai_2026_05)
 
 ### 職場與管理
+- [OpenAI為何砍掉Sora與Atlas？奧特曼揭「冪次法則」：寧可賭錯也不要保守，要玩就要玩大的](https://www.bnext.com.tw/article/91965/altman-power-law-openai-safety)
+- [Google 27年首席科學家為何出走創業？他挑題目只看兩件事：差10倍才做，太簡單或太難都不碰](https://www.bnext.com.tw/article/91938/jeff-dean-discovery-loop)
 - [科技業設計師壓力山大！OpenAI高管拋「少做一點」求生心法，為何千萬別跟工程師硬比產能？](https://www.bnext.com.tw/article/91891/openai-design-lead-best-time-designer)
 - [ChatGPT Work怎麼用？盤點14種上班族好用功能，如何打造超高效AI職場工作流？](https://www.bnext.com.tw/article/91878/chatgpt-work-14-features-cloud-vs-local)
 - [一人公司估值80億！他打造「AI代理團隊」Polsia，年收衝向1,000萬美元](https://www.bnext.com.tw/article/91674/one-person-company-polsia)
@@ -303,6 +312,8 @@
 - [無痛跳槽新AI工具!他教一招省力心法+提示詞,不必啃教學影片](https://www.bnext.com.tw/article/91043/how-to-adopt-ai-tools)
 
 ### 教學與工具應用
+- [Grok Bot新手教學！4步驟建「AI代理一人公司」：月費60美元值得嗎？幕僚團隊如何設定？](https://www.bnext.com.tw/article/91991/grok-bot-getting-started-60)
+- [壹加壹打造AI自動上字幕工具，為何爆紅？What'Sub怎麼用？懶人包一次看](https://www.bnext.com.tw/article/91942/whatsub-ai-subtitle-tool-guide)
 - [Claude入門學習地圖！40篇教學、8大主題一次收，Cowork、Skills、省Token秘訣全打包](https://www.bnext.com.tw/article/91080/claude-cowork-skills)
 - [Claude能直接寄Gmail了！還能幫你管雲端檔案，所有付費版都能用，設定教學一次看](https://www.bnext.com.tw/article/91916/claude-can-send-gmail-now-2026)
 - [Gemini 3.7 Flash上線！Google AI 4種訂閱方案：Plus、Pro、Ultra差在哪？一表看懂如何選](https://www.bnext.com.tw/article/90043/google-gemini-2026-subscription-guide)
@@ -435,6 +446,17 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| Grok Bot新手教學！4步驟建「AI代理一人公司」：月費60美元值得嗎？幕僚團隊如何設定？ | 34分前 | [閱讀](https://www.bnext.com.tw/article/91991/grok-bot-getting-started-60) |
+| 2036年貨幣不重要了？馬斯克預言：AI五年內超越人類智慧的總和，中國靠電力優勢超車 | 1天前 | [閱讀](https://www.bnext.com.tw/article/91951/elon-musk-energy) |
+| OpenAI為何砍掉Sora與Atlas？奧特曼揭「冪次法則」：寧可賭錯也不要保守，要玩就要玩大的 | 1天前 | [閱讀](https://www.bnext.com.tw/article/91965/altman-power-law-openai-safety) |
+| 禾多移動發表「ONLY AI Agent 平台」：以 AI ERP Agent 終結數據黑洞，引領中小企業全自動化營運 | 2天前 | [閱讀](https://www.bnext.com.tw/article/91969/avivid.ai_202608) |
+| 對著手機30秒，AI就能來場小健檢？日本新創讓臉變健康感測器，補上健檢後的364天 | 4天前 | [閱讀](https://www.bnext.com.tw/article/91954/femshin-ai-check-up) |
+| Google 27年首席科學家為何出走創業？他挑題目只看兩件事：差10倍才做，太簡單或太難都不碰 | 4天前 | [閱讀](https://www.bnext.com.tw/article/91938/jeff-dean-discovery-loop) |
+| 壹加壹打造AI自動上字幕工具，為何爆紅？What'Sub怎麼用？懶人包一次看 | 4天前 | [閱讀](https://www.bnext.com.tw/article/91942/whatsub-ai-subtitle-tool-guide) |
+| Berry AI 拿下 Culver's 全美合約：千店部署、連年翻倍 | 5天前 | [閱讀](https://www.bnext.com.tw/article/91893/berry_ai_202608) |
+| 免費用Gemini一年！Google AI Plus誰能領、怎麼申請？年底前沒領就沒了 | 5天前 | [閱讀](https://www.bnext.com.tw/article/91933/google-ai-plus-student-free) |
+| 估值逼近27兆天價！OpenAI內部預告最快2027年上市，財務長稱IPO為「另一次募資」 | 5天前 | [閱讀](https://www.bnext.com.tw/article/91932/openai-cfo-friar-2027-ipo-all-hands) |
+| Stripe砸逾70億美元買下OpenRouter！美國支付巨頭為何，重金押注「AI派遣總機」？ | 5天前 | [閱讀](https://www.bnext.com.tw/article/91931/stripe-acquires-openrouter-ai-model-gateway) |
 | Claude Code快捷鍵+指令大全！13大類速查不用背，從Ctrl+C到多Agent協作一次整理 | 19小時前 | [閱讀](https://www.bnext.com.tw/article/90925/claude-code-slash-commands-shortcuts-complete-guide) |
 | Claude入門學習地圖！40篇教學、8大主題一次收，Cowork、Skills、省Token秘訣全打包 | 19小時前 | [閱讀](https://www.bnext.com.tw/article/91080/claude-cowork-skills) |
 | Claude能直接寄Gmail了！還能幫你管雲端檔案，所有付費版都能用，設定教學一次看 | 22小時前 | [閱讀](https://www.bnext.com.tw/article/91916/claude-can-send-gmail-now-2026) |
