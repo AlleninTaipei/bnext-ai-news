@@ -1,8 +1,8 @@
 # bnext AI 新聞摘要總覽
 
 > 來源：[數位時代「AI 與大數據」分類頁](https://www.bnext.com.tw/categories/ai)  
-> 整理日期：2026-08-26  
-> 共計 20 頁、271 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
+> 整理日期：2026-08-28  
+> 共計 20 頁、277 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
 
 ---
 
@@ -10,16 +10,17 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 271 篇 |
-| 本次新增 | 11 篇 |
+| 文章總數 | 277 篇 |
+| 本次新增 | 6 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-08-26 |
+| 更新日期 | 2026-08-28 |
 
 ---
 
 ## 主題分類
 
 ### 產品發布與更新
+- [敏感資料不想上雲？Perplexity推出「Portable Computer」：綁定輝達硬體，跑地端任務免燒Token](https://www.bnext.com.tw/article/92005/perplexity-portable-computer-dgx-spark)
 - [免費用Gemini一年！Google AI Plus誰能領、怎麼申請？年底前沒領就沒了](https://www.bnext.com.tw/article/91933/google-ai-plus-student-free)
 - [Claude Code快捷鍵+指令大全！13大類速查不用背，從Ctrl+C到多Agent協作一次整理](https://www.bnext.com.tw/article/90925/claude-code-slash-commands-shortcuts-complete-guide)
 - [Claude Code 開始「畫」介面！新增 /design 指令，寫程式前可先挑一張設計稿](https://www.bnext.com.tw/article/91917/claude-code-design-command-early-preview)
@@ -109,6 +110,8 @@
 - [Claude Opus 4.7提示詞攻略!Anthropic官方曝5大調整,如何讓舊prompt一次升級?](https://www.bnext.com.tw/article/91048/claude-opus-4-7-prompting-guide-for-better-responses)
 
 ### 企業應用案例
+- [只有4個HR，如何一年面試400人？凱鈿人資主管揭秘：用AI重組招募流程，10個月就達全年目標](https://www.bnext.com.tw/article/91845/kdan-hr-ai-recruiting-automation)
+- [小，是我故意的！EgentHub不到10人，如何成為200家製造業的AI軍師？](https://www.bnext.com.tw/article/91844/ai-agent-fde-egenthub)
 - [禾多移動發表「ONLY AI Agent 平台」：以 AI ERP Agent 終結數據黑洞，引領中小企業全自動化營運](https://www.bnext.com.tw/article/91969/avivid.ai_202608)
 - [對著手機30秒，AI就能來場小健檢？日本新創讓臉變健康感測器，補上健檢後的364天](https://www.bnext.com.tw/article/91954/femshin-ai-check-up)
 - [Berry AI 拿下 Culver's 全美合約：千店部署、連年翻倍](https://www.bnext.com.tw/article/91893/berry_ai_202608)
@@ -148,6 +151,8 @@
 - [幫富士康、永豐餘做虛擬分身!他導入AI把20人團隊精簡到4人、產能反拉5倍](https://www.bnext.com.tw/article/91049/ai-professionals-rubens)
 
 ### 產業動態與市場
+- [就是想買AI界GitHub！輝達傳砸129億美元併購Hugging Face，開發者生態將洗牌？](https://www.bnext.com.tw/article/92024/nvidia-hugging-face-acquisition-12-9-billion)
+- [比爾蓋茲警告：AI恐掀人類史最動盪時期！他提「AI稅、人類保留區」3解方](https://www.bnext.com.tw/article/92025/bill-gates-turbulent-ai-era-human-reserved)
 - [2036年貨幣不重要了？馬斯克預言：AI五年內超越人類智慧的總和，中國靠電力優勢超車](https://www.bnext.com.tw/article/91951/elon-musk-energy)
 - [估值逼近27兆天價！OpenAI內部預告最快2027年上市，財務長稱IPO為「另一次募資」](https://www.bnext.com.tw/article/91932/openai-cfo-friar-2027-ipo-all-hands)
 - [Stripe砸逾70億美元買下OpenRouter！美國支付巨頭為何，重金押注「AI派遣總機」？](https://www.bnext.com.tw/article/91931/stripe-acquires-openrouter-ai-model-gateway)
@@ -312,6 +317,7 @@
 - [無痛跳槽新AI工具!他教一招省力心法+提示詞,不必啃教學影片](https://www.bnext.com.tw/article/91043/how-to-adopt-ai-tools)
 
 ### 教學與工具應用
+- [ChatGPT內建瀏覽器怎麼用？解密10個實用技巧，退貨、比價訂位都都能代勞](https://www.bnext.com.tw/article/92028/chatgpt-browser-10-automation-tips)
 - [Grok Bot新手教學！4步驟建「AI代理一人公司」：月費60美元值得嗎？幕僚團隊如何設定？](https://www.bnext.com.tw/article/91991/grok-bot-getting-started-60)
 - [壹加壹打造AI自動上字幕工具，為何爆紅？What'Sub怎麼用？懶人包一次看](https://www.bnext.com.tw/article/91942/whatsub-ai-subtitle-tool-guide)
 - [Claude入門學習地圖！40篇教學、8大主題一次收，Cowork、Skills、省Token秘訣全打包](https://www.bnext.com.tw/article/91080/claude-cowork-skills)
@@ -446,6 +452,12 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| ChatGPT內建瀏覽器怎麼用？解密10個實用技巧，退貨、比價訂位都都能代勞 | 34分前 | [閱讀](https://www.bnext.com.tw/article/92028/chatgpt-browser-10-automation-tips) |
+| 就是想買AI界GitHub！輝達傳砸129億美元併購Hugging Face，開發者生態將洗牌？ | 17小時前 | [閱讀](https://www.bnext.com.tw/article/92024/nvidia-hugging-face-acquisition-12-9-billion) |
+| 比爾蓋茲警告：AI恐掀人類史最動盪時期！他提「AI稅、人類保留區」3解方 | 17小時前 | [閱讀](https://www.bnext.com.tw/article/92025/bill-gates-turbulent-ai-era-human-reserved) |
+| 只有4個HR，如何一年面試400人？凱鈿人資主管揭秘：用AI重組招募流程，10個月就達全年目標 | 17小時前 | [閱讀](https://www.bnext.com.tw/article/91845/kdan-hr-ai-recruiting-automation) |
+| 小，是我故意的！EgentHub不到10人，如何成為200家製造業的AI軍師？ | 18小時前 | [閱讀](https://www.bnext.com.tw/article/91844/ai-agent-fde-egenthub) |
+| 敏感資料不想上雲？Perplexity推出「Portable Computer」：綁定輝達硬體，跑地端任務免燒Token | 1天前 | [閱讀](https://www.bnext.com.tw/article/92005/perplexity-portable-computer-dgx-spark) |
 | Grok Bot新手教學！4步驟建「AI代理一人公司」：月費60美元值得嗎？幕僚團隊如何設定？ | 34分前 | [閱讀](https://www.bnext.com.tw/article/91991/grok-bot-getting-started-60) |
 | 2036年貨幣不重要了？馬斯克預言：AI五年內超越人類智慧的總和，中國靠電力優勢超車 | 1天前 | [閱讀](https://www.bnext.com.tw/article/91951/elon-musk-energy) |
 | OpenAI為何砍掉Sora與Atlas？奧特曼揭「冪次法則」：寧可賭錯也不要保守，要玩就要玩大的 | 1天前 | [閱讀](https://www.bnext.com.tw/article/91965/altman-power-law-openai-safety) |
