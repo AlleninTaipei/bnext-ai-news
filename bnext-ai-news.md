@@ -1,8 +1,8 @@
 # bnext AI 新聞摘要總覽
 
 > 來源：[數位時代「AI 與大數據」分類頁](https://www.bnext.com.tw/categories/ai)  
-> 整理日期：2026-08-28  
-> 共計 20 頁、277 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
+> 整理日期：2026-09-02  
+> 共計 20 頁、294 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
 
 ---
 
@@ -10,16 +10,22 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 277 篇 |
-| 本次新增 | 6 篇 |
+| 文章總數 | 294 篇 |
+| 本次新增 | 17 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-08-28 |
+| 更新日期 | 2026-09-02 |
 
 ---
 
 ## 主題分類
 
 ### 產品發布與更新
+- [懶人福音！ChatGPT Work 新增「代操網站」功能，這19件事以後不用自己來](https://www.bnext.com.tw/article/92047/chatgpt-work-sign-in-websites)
+- [Claude記憶功能大升級！Chat與Cowork正式互通Memory，支援即時儲存與手動編輯](https://www.bnext.com.tw/article/92048/claude-memory-chat-cowork-unified)
+- [電子書變個人智庫！Gemini Notebook新功能上線，10萬本電子書可直接匯入AI筆記本問答](https://www.bnext.com.tw/article/92042/gemini-notebook-expert-intelligence-ebooks)
+- [字錯率僅4%！Google發表Gemini 3.5 Transcribe語音轉文字模型，產出逐字稿時間大幅縮短70%](https://www.bnext.com.tw/article/92043/gemini-3-5-transcribe-speech-to-text)
+- [免裝外掛！Claude推出Cowork內建瀏覽器，幫工作者全自動處理網頁繁瑣任務](https://www.bnext.com.tw/article/92044/claude-cowork-built-in-browser)
+- [AI影片生成不再走鐘！Google推出Gemini Omni 1.1 Flash，靠「回看10秒」無縫延伸場景](https://www.bnext.com.tw/article/92032/gemini-omni-1-1-flash-video-extension-interpolation)
 - [敏感資料不想上雲？Perplexity推出「Portable Computer」：綁定輝達硬體，跑地端任務免燒Token](https://www.bnext.com.tw/article/92005/perplexity-portable-computer-dgx-spark)
 - [免費用Gemini一年！Google AI Plus誰能領、怎麼申請？年底前沒領就沒了](https://www.bnext.com.tw/article/91933/google-ai-plus-student-free)
 - [Claude Code快捷鍵+指令大全！13大類速查不用背，從Ctrl+C到多Agent協作一次整理](https://www.bnext.com.tw/article/90925/claude-code-slash-commands-shortcuts-complete-guide)
@@ -110,6 +116,7 @@
 - [Claude Opus 4.7提示詞攻略!Anthropic官方曝5大調整,如何讓舊prompt一次升級?](https://www.bnext.com.tw/article/91048/claude-opus-4-7-prompting-guide-for-better-responses)
 
 ### 企業應用案例
+- [我是這樣訓練AI員工的！ORRA創辦人拆解4階段：每晚讓它拷問我，考核不過就淘汰](https://www.bnext.com.tw/article/91994/orra-ai-employee-training-4-stages)
 - [只有4個HR，如何一年面試400人？凱鈿人資主管揭秘：用AI重組招募流程，10個月就達全年目標](https://www.bnext.com.tw/article/91845/kdan-hr-ai-recruiting-automation)
 - [小，是我故意的！EgentHub不到10人，如何成為200家製造業的AI軍師？](https://www.bnext.com.tw/article/91844/ai-agent-fde-egenthub)
 - [禾多移動發表「ONLY AI Agent 平台」：以 AI ERP Agent 終結數據黑洞，引領中小企業全自動化營運](https://www.bnext.com.tw/article/91969/avivid.ai_202608)
@@ -151,6 +158,9 @@
 - [幫富士康、永豐餘做虛擬分身!他導入AI把20人團隊精簡到4人、產能反拉5倍](https://www.bnext.com.tw/article/91049/ai-professionals-rubens)
 
 ### 產業動態與市場
+- [AI蜜月期結束了？調查揭Z世代用最兇卻「最討厭AI」，為何X世代老鳥反而是最大擁護者？](https://www.bnext.com.tw/article/92066/glassdoor-2026-gen-z-most-critical-of-employer-ai)
+- [OpenAI再槓馬斯克！旗下ChatGPT模型11月起斷供Cursor，SpaceX收購案成導火線](https://www.bnext.com.tw/article/92065/openai-proposes-ending-model-supply-to-cursor-spacex)
+- [Codex用戶成長最快的不是工程師，是法務！OpenAI最新研究：企業AI正從協助走向執行](https://www.bnext.com.tw/article/91987/openai-codex-growth-legal-108x-engineer-5x)
 - [就是想買AI界GitHub！輝達傳砸129億美元併購Hugging Face，開發者生態將洗牌？](https://www.bnext.com.tw/article/92024/nvidia-hugging-face-acquisition-12-9-billion)
 - [比爾蓋茲警告：AI恐掀人類史最動盪時期！他提「AI稅、人類保留區」3解方](https://www.bnext.com.tw/article/92025/bill-gates-turbulent-ai-era-human-reserved)
 - [2036年貨幣不重要了？馬斯克預言：AI五年內超越人類智慧的總和，中國靠電力優勢超車](https://www.bnext.com.tw/article/91951/elon-musk-energy)
@@ -210,6 +220,7 @@
 - [行銷人AI實戰指南!「Gemini+NotebookLM」工作流,把10小時市場研究壓縮成20分鐘](https://www.bnext.com.tw/article/91075/gemini-notebooklm-8-step-market-research-workflow)
 
 ### 技術與安全
+- [新創Zeabur遭駭懶人包：一組外洩AWS憑證，如何偷走用戶AI金鑰？受災戶6大QA一次看](https://www.bnext.com.tw/article/92061/zeabur-env-var-leak-api-key-stolen)
 - [OpenAI訓練喊卡！AI模型駭入Hugging Face系統亮警報，奧特曼坦承「現在該放慢腳步了」](https://www.bnext.com.tw/article/91915/openai-pauses-frontier-training-hugging-face-breach)
 - [誰是開源模型一哥？Hugging Face揭2026下載榜單：中國Qwen突破20億次，比Google多5倍](https://www.bnext.com.tw/article/91887/qwen-tops-hugging-face-open-model-ranking-2026)
 - [AI文章無所遁形？Anthropic推出「隱形浮水印」機制，一篇搞懂背後原理、限制和影響](https://www.bnext.com.tw/article/91882/claude-text-watermark-explained)
@@ -264,6 +275,7 @@
 - [從模型競爭走向算力經濟,INFINITIX 助客戶打造軟體定義 AI 基礎建設](https://www.bnext.com.tw/article/91042/infinitix_ai_2026_05)
 
 ### 職場與管理
+- [「最美的程式語言是英文！」Ruby on Rails創始人放棄25年手寫堅持，他為何全面擁抱AI寫碼？](https://www.bnext.com.tw/article/92085/dhh-ai-programming-lex-fridman-501)
 - [OpenAI為何砍掉Sora與Atlas？奧特曼揭「冪次法則」：寧可賭錯也不要保守，要玩就要玩大的](https://www.bnext.com.tw/article/91965/altman-power-law-openai-safety)
 - [Google 27年首席科學家為何出走創業？他挑題目只看兩件事：差10倍才做，太簡單或太難都不碰](https://www.bnext.com.tw/article/91938/jeff-dean-discovery-loop)
 - [科技業設計師壓力山大！OpenAI高管拋「少做一點」求生心法，為何千萬別跟工程師硬比產能？](https://www.bnext.com.tw/article/91891/openai-design-lead-best-time-designer)
@@ -317,6 +329,8 @@
 - [無痛跳槽新AI工具!他教一招省力心法+提示詞,不必啃教學影片](https://www.bnext.com.tw/article/91043/how-to-adopt-ai-tools)
 
 ### 教學與工具應用
+- [告別繁瑣設定！OpenClaw 2.0迎來全新介面、內建記憶與Skills 升級，如何三步驟安裝好？](https://www.bnext.com.tw/article/92083/openclaw-2-0-release-install-guide)
+- [Claude Cowork排程任務教學：Scheduled Tasks如何設定？5種自動化用法一次看](https://www.bnext.com.tw/article/92046/claude-cowork-scheduled-tasks)
 - [ChatGPT內建瀏覽器怎麼用？解密10個實用技巧，退貨、比價訂位都都能代勞](https://www.bnext.com.tw/article/92028/chatgpt-browser-10-automation-tips)
 - [Grok Bot新手教學！4步驟建「AI代理一人公司」：月費60美元值得嗎？幕僚團隊如何設定？](https://www.bnext.com.tw/article/91991/grok-bot-getting-started-60)
 - [壹加壹打造AI自動上字幕工具，為何爆紅？What'Sub怎麼用？懶人包一次看](https://www.bnext.com.tw/article/91942/whatsub-ai-subtitle-tool-guide)
@@ -393,6 +407,8 @@
 - [無痛跳槽新AI工具!他教一招省力心法+提示詞,不必啃教學影片](https://www.bnext.com.tw/article/91043/how-to-adopt-ai-tools)
 
 ### 政策與法規
+- [AI連何時會吃榴槤都懂！新加坡讓巨頭繞不過它](https://www.bnext.com.tw/article/92041/singapore-sovereign-ai-sea-lion)
+- [不只課晶片！川普政府擬擴大半導體關稅：筆電、遊戲機恐遭殃，科技業為何憂心「自斷手腳」？](https://www.bnext.com.tw/article/92033/us-chip-tariff-may-expand-to-laptops-and-consoles)
 - [社群河道無限滾動害孩子憂鬱？全美3,000件「社群成癮」官司開打，Meta、TikTok遭控焦慮元兇](https://www.bnext.com.tw/article/91834/meta-tiktok-social-media-addiction-lawsuits-ninth-circuit-ruling)
 - [OpenAI反咬蘋果竊密案！公開對話紀錄控敵營律師「混淆亞裔姓氏」，通話紀錄全屬虛構](https://www.bnext.com.tw/article/91736/apple-openai-trade-secret-name-mixup)
 - [觀點｜蘋果控告OpenAI竊密，400人出走引爆AI終端裝置之戰！誰將受惠？](https://www.bnext.com.tw/article/91701/apple-sues-openai-trade-secrets-ai-device-war)
@@ -401,6 +417,7 @@
 - [Fable 5被下架，告密者是最大股東！Anthropic最強模型風波始末：為何管制？越獄風險多大?](https://www.bnext.com.tw/article/91244/anthropic-fable-5-us-export-control-jailbreak-and-china-ai-risk)
 
 ### 其他
+- [蘋果庫克時代落幕！告別信稱「文化勝過一切」：高層大換血後，新任CEO特納斯有何挑戰？](https://www.bnext.com.tw/article/92078/tim-cook-farewell-memo-phil-schiller-app-store)
 - [台灣是「硬體的巨人，應用的侏儒」！貿協黃志芳示警：AI使用強度亞洲四地唯一下滑](https://www.bnext.com.tw/article/91912/taiwan-ai-usage-intensity-decline)
 - [矽谷瘋搶FDE，硬體業早有相似打法！聯發科「陪客戶一路做到成功」，把生意撐起來](https://www.bnext.com.tw/article/91823/forward-deployed-engineer-fae)
 - [網站改版了，AI卻讀不懂？善用Cloudflare免費工具，幫品牌官網做一次「代理人體檢」](https://www.bnext.com.tw/article/91784/ai-agent-website-check)
@@ -452,6 +469,18 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| 「最美的程式語言是英文！」Ruby on Rails創始人放棄25年手寫堅持，他為何全面擁抱AI寫碼？ | 16小時前 | [閱讀](https://www.bnext.com.tw/article/92085/dhh-ai-programming-lex-fridman-501) |
+| 告別繁瑣設定！OpenClaw 2.0迎來全新介面、內建記憶與Skills 升級，如何三步驟安裝好？ | 19小時前 | [閱讀](https://www.bnext.com.tw/article/92083/openclaw-2-0-release-install-guide) |
+| 蘋果庫克時代落幕！告別信稱「文化勝過一切」：高層大換血後，新任CEO特納斯有何挑戰？ | 22小時前 | [閱讀](https://www.bnext.com.tw/article/92078/tim-cook-farewell-memo-phil-schiller-app-store) |
+| AI蜜月期結束了？調查揭Z世代用最兇卻「最討厭AI」，為何X世代老鳥反而是最大擁護者？ | 1天前 | [閱讀](https://www.bnext.com.tw/article/92066/glassdoor-2026-gen-z-most-critical-of-employer-ai) |
+| OpenAI再槓馬斯克！旗下ChatGPT模型11月起斷供Cursor，SpaceX收購案成導火線 | 1天前 | [閱讀](https://www.bnext.com.tw/article/92065/openai-proposes-ending-model-supply-to-cursor-spacex) |
+| 新創Zeabur遭駭懶人包：一組外洩AWS憑證，如何偷走用戶AI金鑰？受災戶6大QA一次看 | 1天前 | [閱讀](https://www.bnext.com.tw/article/92061/zeabur-env-var-leak-api-key-stolen) |
+| 懶人福音！ChatGPT Work 新增「代操網站」功能，這19件事以後不用自己來 | 2天前 | [閱讀](https://www.bnext.com.tw/article/92047/chatgpt-work-sign-in-websites) |
+| Claude記憶功能大升級！Chat與Cowork正式互通Memory，支援即時儲存與手動編輯 | 2天前 | [閱讀](https://www.bnext.com.tw/article/92048/claude-memory-chat-cowork-unified) |
+| Claude Cowork排程任務教學：Scheduled Tasks如何設定？5種自動化用法一次看 | 4天前 | [閱讀](https://www.bnext.com.tw/article/92046/claude-cowork-scheduled-tasks) |
+| Codex用戶成長最快的不是工程師，是法務！OpenAI最新研究：企業AI正從協助走向執行 | 4天前 | [閱讀](https://www.bnext.com.tw/article/91987/openai-codex-growth-legal-108x-engineer-5x) |
+| 電子書變個人智庫！Gemini Notebook新功能上線，10萬本電子書可直接匯入AI筆記本問答 | 4天前 | [閱讀](https://www.bnext.com.tw/article/92042/gemini-notebook-expert-intelligence-ebooks) |
+| 字錯率僅4%！Google發表Gemini 3.5 Transcribe語音轉文字模型，產出逐字稿時間大幅縮短70% | 4天前 | [閱讀](https://www.bnext.com.tw/article/92043/gemini-3-5-transcribe-speech-to-text) |
 | ChatGPT內建瀏覽器怎麼用？解密10個實用技巧，退貨、比價訂位都都能代勞 | 34分前 | [閱讀](https://www.bnext.com.tw/article/92028/chatgpt-browser-10-automation-tips) |
 | 就是想買AI界GitHub！輝達傳砸129億美元併購Hugging Face，開發者生態將洗牌？ | 17小時前 | [閱讀](https://www.bnext.com.tw/article/92024/nvidia-hugging-face-acquisition-12-9-billion) |
 | 比爾蓋茲警告：AI恐掀人類史最動盪時期！他提「AI稅、人類保留區」3解方 | 17小時前 | [閱讀](https://www.bnext.com.tw/article/92025/bill-gates-turbulent-ai-era-human-reserved) |
@@ -489,6 +518,11 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| 免裝外掛！Claude推出Cowork內建瀏覽器，幫工作者全自動處理網頁繁瑣任務 | 4天前 | [閱讀](https://www.bnext.com.tw/article/92044/claude-cowork-built-in-browser) |
+| AI連何時會吃榴槤都懂！新加坡讓巨頭繞不過它 | 4天前 | [閱讀](https://www.bnext.com.tw/article/92041/singapore-sovereign-ai-sea-lion) |
+| 我是這樣訓練AI員工的！ORRA創辦人拆解4階段：每晚讓它拷問我，考核不過就淘汰 | 4天前 | [閱讀](https://www.bnext.com.tw/article/91994/orra-ai-employee-training-4-stages) |
+| AI影片生成不再走鐘！Google推出Gemini Omni 1.1 Flash，靠「回看10秒」無縫延伸場景 | 4天前 | [閱讀](https://www.bnext.com.tw/article/92032/gemini-omni-1-1-flash-video-extension-interpolation) |
+| 不只課晶片！川普政府擬擴大半導體關稅：筆電、遊戲機恐遭殃，科技業為何憂心「自斷手腳」？ | 4天前 | [閱讀](https://www.bnext.com.tw/article/92033/us-chip-tariff-may-expand-to-laptops-and-consoles) |
 | ChatGPT能記住你在Mac上做了什麼！Computer History五步驟開啟教學，三層隱私設定怎麼設？ | 5天前 | [閱讀](https://www.bnext.com.tw/article/91875/chatgpt-computer-history-guide) |
 | Google發表Gemini 3.7 Flash！編碼評測與GPT-5.6 Terra互有勝負，促銷價約三分之一 | 5天前 | [閱讀](https://www.bnext.com.tw/article/91865/google-gemini-3-7-flash) |
 | 裝別人寫的Skill安全嗎？同一份Skill能在Claude、ChatGPT、Gemini通用嗎？ | 5天前 | [閱讀](https://www.bnext.com.tw/article/91857/third-party-skill-security-cross-platform) |
