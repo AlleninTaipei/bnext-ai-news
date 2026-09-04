@@ -1,8 +1,8 @@
 # bnext AI 新聞摘要總覽
 
 > 來源：[數位時代「AI 與大數據」分類頁](https://www.bnext.com.tw/categories/ai)  
-> 整理日期：2026-09-02  
-> 共計 20 頁、294 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
+> 整理日期：2026-09-04  
+> 共計 20 頁、300 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
 
 ---
 
@@ -10,16 +10,19 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 294 篇 |
-| 本次新增 | 17 篇 |
+| 文章總數 | 300 篇 |
+| 本次新增 | 6 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-09-02 |
+| 更新日期 | 2026-09-04 |
 
 ---
 
 ## 主題分類
 
 ### 產品發布與更新
+- [Meta推出旗艦模型Muse Spark 1.3！汪滔稱「史上最大躍進」，發文狠嗆：Gemini誰啊？](https://www.bnext.com.tw/article/92117/meta-muse-spark-1-3)
+- [僅隔三週再升級！Google釋出Gemini 3.8 Flash與Cyber資安模型，搶攻「最聰明工作馬」定位](https://www.bnext.com.tw/article/92116/google-gemini-3-8-flash-cyber)
+- [Anthropic推出最強模型Fable 5.1！評測跑分史上最高、降價 75%，單一任務成本為何反而貴2成？](https://www.bnext.com.tw/article/92093/anthropic-claude-fable-5-1-mythos-5-1)
 - [懶人福音！ChatGPT Work 新增「代操網站」功能，這19件事以後不用自己來](https://www.bnext.com.tw/article/92047/chatgpt-work-sign-in-websites)
 - [Claude記憶功能大升級！Chat與Cowork正式互通Memory，支援即時儲存與手動編輯](https://www.bnext.com.tw/article/92048/claude-memory-chat-cowork-unified)
 - [電子書變個人智庫！Gemini Notebook新功能上線，10萬本電子書可直接匯入AI筆記本問答](https://www.bnext.com.tw/article/92042/gemini-notebook-expert-intelligence-ebooks)
@@ -158,6 +161,8 @@
 - [幫富士康、永豐餘做虛擬分身!他導入AI把20人團隊精簡到4人、產能反拉5倍](https://www.bnext.com.tw/article/91049/ai-professionals-rubens)
 
 ### 產業動態與市場
+- [Uber全球大裁3,300人！狠砍20%管理層、取消遠距，省下千億重押「自駕車」](https://www.bnext.com.tw/article/92121/uber-layoffs-10-percent-3300-jobs)
+- [國巨、南亞科誰更猛？謝金河解析輝達Rubin供應鏈，AI下一波強棒是誰？](https://www.bnext.com.tw/article/92102/nvidia-rubin-nanya-yageo-ai-supply-chain)
 - [AI蜜月期結束了？調查揭Z世代用最兇卻「最討厭AI」，為何X世代老鳥反而是最大擁護者？](https://www.bnext.com.tw/article/92066/glassdoor-2026-gen-z-most-critical-of-employer-ai)
 - [OpenAI再槓馬斯克！旗下ChatGPT模型11月起斷供Cursor，SpaceX收購案成導火線](https://www.bnext.com.tw/article/92065/openai-proposes-ending-model-supply-to-cursor-spacex)
 - [Codex用戶成長最快的不是工程師，是法務！OpenAI最新研究：企業AI正從協助走向執行](https://www.bnext.com.tw/article/91987/openai-codex-growth-legal-108x-engineer-5x)
@@ -220,6 +225,7 @@
 - [行銷人AI實戰指南!「Gemini+NotebookLM」工作流,把10小時市場研究壓縮成20分鐘](https://www.bnext.com.tw/article/91075/gemini-notebooklm-8-step-market-research-workflow)
 
 ### 技術與安全
+- [Anthropic推出最強模型Fable 5.1！評測跑分史上最高、降價 75%，單一任務成本為何反而貴2成？](https://www.bnext.com.tw/article/92093/anthropic-claude-fable-5-1-mythos-5-1)
 - [新創Zeabur遭駭懶人包：一組外洩AWS憑證，如何偷走用戶AI金鑰？受災戶6大QA一次看](https://www.bnext.com.tw/article/92061/zeabur-env-var-leak-api-key-stolen)
 - [OpenAI訓練喊卡！AI模型駭入Hugging Face系統亮警報，奧特曼坦承「現在該放慢腳步了」](https://www.bnext.com.tw/article/91915/openai-pauses-frontier-training-hugging-face-breach)
 - [誰是開源模型一哥？Hugging Face揭2026下載榜單：中國Qwen突破20億次，比Google多5倍](https://www.bnext.com.tw/article/91887/qwen-tops-hugging-face-open-model-ranking-2026)
@@ -275,6 +281,7 @@
 - [從模型競爭走向算力經濟,INFINITIX 助客戶打造軟體定義 AI 基礎建設](https://www.bnext.com.tw/article/91042/infinitix_ai_2026_05)
 
 ### 職場與管理
+- [「我超愛比爾蓋茲，但我看不到他看到的東西」黃仁勳反駁AI失業論：它是史無前例的工作創造者！](https://www.bnext.com.tw/article/92095/jensen-huang-bill-gates-ai-jobs-debate)
 - [「最美的程式語言是英文！」Ruby on Rails創始人放棄25年手寫堅持，他為何全面擁抱AI寫碼？](https://www.bnext.com.tw/article/92085/dhh-ai-programming-lex-fridman-501)
 - [OpenAI為何砍掉Sora與Atlas？奧特曼揭「冪次法則」：寧可賭錯也不要保守，要玩就要玩大的](https://www.bnext.com.tw/article/91965/altman-power-law-openai-safety)
 - [Google 27年首席科學家為何出走創業？他挑題目只看兩件事：差10倍才做，太簡單或太難都不碰](https://www.bnext.com.tw/article/91938/jeff-dean-discovery-loop)
@@ -469,6 +476,12 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| Uber全球大裁3,300人！狠砍20%管理層、取消遠距，省下千億重押「自駕車」 | 19小時前 | [閱讀](https://www.bnext.com.tw/article/92121/uber-layoffs-10-percent-3300-jobs) |
+| Meta推出旗艦模型Muse Spark 1.3！汪滔稱「史上最大躍進」，發文狠嗆：Gemini誰啊？ | 22小時前 | [閱讀](https://www.bnext.com.tw/article/92117/meta-muse-spark-1-3) |
+| 僅隔三週再升級！Google釋出Gemini 3.8 Flash與Cyber資安模型，搶攻「最聰明工作馬」定位 | 22小時前 | [閱讀](https://www.bnext.com.tw/article/92116/google-gemini-3-8-flash-cyber) |
+| 國巨、南亞科誰更猛？謝金河解析輝達Rubin供應鏈，AI下一波強棒是誰？ | 1天前 | [閱讀](https://www.bnext.com.tw/article/92102/nvidia-rubin-nanya-yageo-ai-supply-chain) |
+| 「我超愛比爾蓋茲，但我看不到他看到的東西」黃仁勳反駁AI失業論：它是史無前例的工作創造者！ | 1天前 | [閱讀](https://www.bnext.com.tw/article/92095/jensen-huang-bill-gates-ai-jobs-debate) |
+| Anthropic推出最強模型Fable 5.1！評測跑分史上最高、降價 75%，單一任務成本為何反而貴2成？ | 1天前 | [閱讀](https://www.bnext.com.tw/article/92093/anthropic-claude-fable-5-1-mythos-5-1) |
 | 「最美的程式語言是英文！」Ruby on Rails創始人放棄25年手寫堅持，他為何全面擁抱AI寫碼？ | 16小時前 | [閱讀](https://www.bnext.com.tw/article/92085/dhh-ai-programming-lex-fridman-501) |
 | 告別繁瑣設定！OpenClaw 2.0迎來全新介面、內建記憶與Skills 升級，如何三步驟安裝好？ | 19小時前 | [閱讀](https://www.bnext.com.tw/article/92083/openclaw-2-0-release-install-guide) |
 | 蘋果庫克時代落幕！告別信稱「文化勝過一切」：高層大換血後，新任CEO特納斯有何挑戰？ | 22小時前 | [閱讀](https://www.bnext.com.tw/article/92078/tim-cook-farewell-memo-phil-schiller-app-store) |
