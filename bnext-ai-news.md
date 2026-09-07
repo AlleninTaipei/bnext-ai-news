@@ -1,8 +1,8 @@
 # bnext AI 新聞摘要總覽
 
 > 來源：[數位時代「AI 與大數據」分類頁](https://www.bnext.com.tw/categories/ai)  
-> 整理日期：2026-09-04  
-> 共計 20 頁、300 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
+> 整理日期：2026-09-07  
+> 共計 20 頁、306 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
 
 ---
 
@@ -10,16 +10,17 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 300 篇 |
+| 文章總數 | 306 篇 |
 | 本次新增 | 6 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-09-04 |
+| 更新日期 | 2026-09-07 |
 
 ---
 
 ## 主題分類
 
 ### 產品發布與更新
+- [「這是新的能力等級」GPT-6 Astra發布：數學與駭客測試近乎滿分，高層宣告「AGI時代開端」](https://www.bnext.com.tw/article/92131/gpt-6-astra-critical-cybersecurity-launch)
 - [Meta推出旗艦模型Muse Spark 1.3！汪滔稱「史上最大躍進」，發文狠嗆：Gemini誰啊？](https://www.bnext.com.tw/article/92117/meta-muse-spark-1-3)
 - [僅隔三週再升級！Google釋出Gemini 3.8 Flash與Cyber資安模型，搶攻「最聰明工作馬」定位](https://www.bnext.com.tw/article/92116/google-gemini-3-8-flash-cyber)
 - [Anthropic推出最強模型Fable 5.1！評測跑分史上最高、降價 75%，單一任務成本為何反而貴2成？](https://www.bnext.com.tw/article/92093/anthropic-claude-fable-5-1-mythos-5-1)
@@ -119,6 +120,7 @@
 - [Claude Opus 4.7提示詞攻略!Anthropic官方曝5大調整,如何讓舊prompt一次升級?](https://www.bnext.com.tw/article/91048/claude-opus-4-7-prompting-guide-for-better-responses)
 
 ### 企業應用案例
+- [AI 實力獲國內外雙重肯定！大數據一舉拿下 WITSA Global AI Awards、臺灣 AI 卓越獎](https://www.bnext.com.tw/article/92136/big-data_2026_09)
 - [我是這樣訓練AI員工的！ORRA創辦人拆解4階段：每晚讓它拷問我，考核不過就淘汰](https://www.bnext.com.tw/article/91994/orra-ai-employee-training-4-stages)
 - [只有4個HR，如何一年面試400人？凱鈿人資主管揭秘：用AI重組招募流程，10個月就達全年目標](https://www.bnext.com.tw/article/91845/kdan-hr-ai-recruiting-automation)
 - [小，是我故意的！EgentHub不到10人，如何成為200家製造業的AI軍師？](https://www.bnext.com.tw/article/91844/ai-agent-fde-egenthub)
@@ -161,6 +163,7 @@
 - [幫富士康、永豐餘做虛擬分身!他導入AI把20人團隊精簡到4人、產能反拉5倍](https://www.bnext.com.tw/article/91049/ai-professionals-rubens)
 
 ### 產業動態與市場
+- [Salesforce為何把用戶入口讓給Claude，甘願當笨水管？軟體巨頭真正押注的是「資料護城河」](https://www.bnext.com.tw/article/92142/salesforce-claudeforce-dumb-pipe)
 - [Uber全球大裁3,300人！狠砍20%管理層、取消遠距，省下千億重押「自駕車」](https://www.bnext.com.tw/article/92121/uber-layoffs-10-percent-3300-jobs)
 - [國巨、南亞科誰更猛？謝金河解析輝達Rubin供應鏈，AI下一波強棒是誰？](https://www.bnext.com.tw/article/92102/nvidia-rubin-nanya-yageo-ai-supply-chain)
 - [AI蜜月期結束了？調查揭Z世代用最兇卻「最討厭AI」，為何X世代老鳥反而是最大擁護者？](https://www.bnext.com.tw/article/92066/glassdoor-2026-gen-z-most-critical-of-employer-ai)
@@ -336,6 +339,8 @@
 - [無痛跳槽新AI工具!他教一招省力心法+提示詞,不必啃教學影片](https://www.bnext.com.tw/article/91043/how-to-adopt-ai-tools)
 
 ### 教學與工具應用
+- [GPT-6 Astra變強後，Skill檔反而該大掃除！Codex工程師點名5種舊指令拖累效率](https://www.bnext.com.tw/article/92145/gpt-6-astra-skill-cleanup-less-is-more)
+- [token預算暴衝怎麼辦？ AI獨角獸揭4招省錢心法：先找效率前沿模型就對了！](https://www.bnext.com.tw/article/92060/managing-ai-coding-costs-scale)
 - [告別繁瑣設定！OpenClaw 2.0迎來全新介面、內建記憶與Skills 升級，如何三步驟安裝好？](https://www.bnext.com.tw/article/92083/openclaw-2-0-release-install-guide)
 - [Claude Cowork排程任務教學：Scheduled Tasks如何設定？5種自動化用法一次看](https://www.bnext.com.tw/article/92046/claude-cowork-scheduled-tasks)
 - [ChatGPT內建瀏覽器怎麼用？解密10個實用技巧，退貨、比價訂位都都能代勞](https://www.bnext.com.tw/article/92028/chatgpt-browser-10-automation-tips)
@@ -424,6 +429,7 @@
 - [Fable 5被下架，告密者是最大股東！Anthropic最強模型風波始末：為何管制？越獄風險多大?](https://www.bnext.com.tw/article/91244/anthropic-fable-5-us-export-control-jailbreak-and-china-ai-risk)
 
 ### 其他
+- [伺服器成本扛不住？Xbox雲端遊戲不再吃到飽，11月將推「免訂閱」時數方案](https://www.bnext.com.tw/article/92135/xbox-cloud-gaming-monthly-hour-limit)
 - [蘋果庫克時代落幕！告別信稱「文化勝過一切」：高層大換血後，新任CEO特納斯有何挑戰？](https://www.bnext.com.tw/article/92078/tim-cook-farewell-memo-phil-schiller-app-store)
 - [台灣是「硬體的巨人，應用的侏儒」！貿協黃志芳示警：AI使用強度亞洲四地唯一下滑](https://www.bnext.com.tw/article/91912/taiwan-ai-usage-intensity-decline)
 - [矽谷瘋搶FDE，硬體業早有相似打法！聯發科「陪客戶一路做到成功」，把生意撐起來](https://www.bnext.com.tw/article/91823/forward-deployed-engineer-fae)
@@ -476,6 +482,12 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| GPT-6 Astra變強後，Skill檔反而該大掃除！Codex工程師點名5種舊指令拖累效率 | 2小時前 | [閱讀](https://www.bnext.com.tw/article/92145/gpt-6-astra-skill-cleanup-less-is-more) |
+| token預算暴衝怎麼辦？ AI獨角獸揭4招省錢心法：先找效率前沿模型就對了！ | 2天前 | [閱讀](https://www.bnext.com.tw/article/92060/managing-ai-coding-costs-scale) |
+| Salesforce為何把用戶入口讓給Claude，甘願當笨水管？軟體巨頭真正押注的是「資料護城河」 | 2天前 | [閱讀](https://www.bnext.com.tw/article/92142/salesforce-claudeforce-dumb-pipe) |
+| 伺服器成本扛不住？Xbox雲端遊戲不再吃到飽，11月將推「免訂閱」時數方案 | 3天前 | [閱讀](https://www.bnext.com.tw/article/92135/xbox-cloud-gaming-monthly-hour-limit) |
+| 「這是新的能力等級」GPT-6 Astra發布：數學與駭客測試近乎滿分，高層宣告「AGI時代開端」 | 3天前 | [閱讀](https://www.bnext.com.tw/article/92131/gpt-6-astra-critical-cybersecurity-launch) |
+| AI 實力獲國內外雙重肯定！大數據一舉拿下 WITSA Global AI Awards、臺灣 AI 卓越獎 | 3天前 | [閱讀](https://www.bnext.com.tw/article/92136/big-data_2026_09) |
 | Uber全球大裁3,300人！狠砍20%管理層、取消遠距，省下千億重押「自駕車」 | 19小時前 | [閱讀](https://www.bnext.com.tw/article/92121/uber-layoffs-10-percent-3300-jobs) |
 | Meta推出旗艦模型Muse Spark 1.3！汪滔稱「史上最大躍進」，發文狠嗆：Gemini誰啊？ | 22小時前 | [閱讀](https://www.bnext.com.tw/article/92117/meta-muse-spark-1-3) |
 | 僅隔三週再升級！Google釋出Gemini 3.8 Flash與Cyber資安模型，搶攻「最聰明工作馬」定位 | 22小時前 | [閱讀](https://www.bnext.com.tw/article/92116/google-gemini-3-8-flash-cyber) |
