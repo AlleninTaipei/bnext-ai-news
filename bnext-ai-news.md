@@ -1,8 +1,8 @@
 # bnext AI 新聞摘要總覽
 
 > 來源：[數位時代「AI 與大數據」分類頁](https://www.bnext.com.tw/categories/ai)  
-> 整理日期：2026-09-07  
-> 共計 20 頁、306 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
+> 整理日期：2026-09-10  
+> 共計 20 頁、310 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
 
 ---
 
@@ -10,16 +10,17 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 306 篇 |
-| 本次新增 | 6 篇 |
+| 文章總數 | 310 篇 |
+| 本次新增 | 4 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-09-07 |
+| 更新日期 | 2026-09-10 |
 
 ---
 
 ## 主題分類
 
 ### 產品發布與更新
+- [ChatGPT Images 2.5有多強？生圖快50%、支援手繪草圖，實測「構圖幾乎照抄」](https://www.bnext.com.tw/article/92175/openai-chatgpt-images-2-5-sketch-launch)
 - [「這是新的能力等級」GPT-6 Astra發布：數學與駭客測試近乎滿分，高層宣告「AGI時代開端」](https://www.bnext.com.tw/article/92131/gpt-6-astra-critical-cybersecurity-launch)
 - [Meta推出旗艦模型Muse Spark 1.3！汪滔稱「史上最大躍進」，發文狠嗆：Gemini誰啊？](https://www.bnext.com.tw/article/92117/meta-muse-spark-1-3)
 - [僅隔三週再升級！Google釋出Gemini 3.8 Flash與Cyber資安模型，搶攻「最聰明工作馬」定位](https://www.bnext.com.tw/article/92116/google-gemini-3-8-flash-cyber)
@@ -120,6 +121,7 @@
 - [Claude Opus 4.7提示詞攻略!Anthropic官方曝5大調整,如何讓舊prompt一次升級?](https://www.bnext.com.tw/article/91048/claude-opus-4-7-prompting-guide-for-better-responses)
 
 ### 企業應用案例
+- [代理式 AI 元年，企業級 AI 指揮中心怎麼做？UiPath 2026 CXO 圓桌會議，引領代理自動化時代的高階決策](https://www.bnext.com.tw/article/92176/UiPath0909)
 - [AI 實力獲國內外雙重肯定！大數據一舉拿下 WITSA Global AI Awards、臺灣 AI 卓越獎](https://www.bnext.com.tw/article/92136/big-data_2026_09)
 - [我是這樣訓練AI員工的！ORRA創辦人拆解4階段：每晚讓它拷問我，考核不過就淘汰](https://www.bnext.com.tw/article/91994/orra-ai-employee-training-4-stages)
 - [只有4個HR，如何一年面試400人？凱鈿人資主管揭秘：用AI重組招募流程，10個月就達全年目標](https://www.bnext.com.tw/article/91845/kdan-hr-ai-recruiting-automation)
@@ -228,6 +230,7 @@
 - [行銷人AI實戰指南!「Gemini+NotebookLM」工作流,把10小時市場研究壓縮成20分鐘](https://www.bnext.com.tw/article/91075/gemini-notebooklm-8-step-market-research-workflow)
 
 ### 技術與安全
+- [1萬個AI代理解開90年數學難題！OpenAI為何反遭學者控「搶研究」？](https://www.bnext.com.tw/article/92182/openai-navier-stokes-proof-buckmaster-dispute)
 - [Anthropic推出最強模型Fable 5.1！評測跑分史上最高、降價 75%，單一任務成本為何反而貴2成？](https://www.bnext.com.tw/article/92093/anthropic-claude-fable-5-1-mythos-5-1)
 - [新創Zeabur遭駭懶人包：一組外洩AWS憑證，如何偷走用戶AI金鑰？受災戶6大QA一次看](https://www.bnext.com.tw/article/92061/zeabur-env-var-leak-api-key-stolen)
 - [OpenAI訓練喊卡！AI模型駭入Hugging Face系統亮警報，奧特曼坦承「現在該放慢腳步了」](https://www.bnext.com.tw/article/91915/openai-pauses-frontier-training-hugging-face-breach)
@@ -339,6 +342,7 @@
 - [無痛跳槽新AI工具!他教一招省力心法+提示詞,不必啃教學影片](https://www.bnext.com.tw/article/91043/how-to-adopt-ai-tools)
 
 ### 教學與工具應用
+- [GPT-6 Astra提示詞怎麼寫？讓模型少問多做、定義指令優先級···5個關鍵調整一次看](https://www.bnext.com.tw/article/92149/gpt-6-astra-prompting-guide)
 - [GPT-6 Astra變強後，Skill檔反而該大掃除！Codex工程師點名5種舊指令拖累效率](https://www.bnext.com.tw/article/92145/gpt-6-astra-skill-cleanup-less-is-more)
 - [token預算暴衝怎麼辦？ AI獨角獸揭4招省錢心法：先找效率前沿模型就對了！](https://www.bnext.com.tw/article/92060/managing-ai-coding-costs-scale)
 - [告別繁瑣設定！OpenClaw 2.0迎來全新介面、內建記憶與Skills 升級，如何三步驟安裝好？](https://www.bnext.com.tw/article/92083/openclaw-2-0-release-install-guide)
@@ -482,6 +486,10 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| 1萬個AI代理解開90年數學難題！OpenAI為何反遭學者控「搶研究」？ | 17小時前 | [閱讀](https://www.bnext.com.tw/article/92182/openai-navier-stokes-proof-buckmaster-dispute) |
+| 代理式 AI 元年，企業級 AI 指揮中心怎麼做？UiPath 2026 CXO 圓桌會議，引領代理自動化時代的高階決策 | 17小時前 | [閱讀](https://www.bnext.com.tw/article/92176/UiPath0909) |
+| ChatGPT Images 2.5有多強？生圖快50%、支援手繪草圖，實測「構圖幾乎照抄」 | 22小時前 | [閱讀](https://www.bnext.com.tw/article/92175/openai-chatgpt-images-2-5-sketch-launch) |
+| GPT-6 Astra提示詞怎麼寫？讓模型少問多做、定義指令優先級···5個關鍵調整一次看 | 2天前 | [閱讀](https://www.bnext.com.tw/article/92149/gpt-6-astra-prompting-guide) |
 | GPT-6 Astra變強後，Skill檔反而該大掃除！Codex工程師點名5種舊指令拖累效率 | 2小時前 | [閱讀](https://www.bnext.com.tw/article/92145/gpt-6-astra-skill-cleanup-less-is-more) |
 | token預算暴衝怎麼辦？ AI獨角獸揭4招省錢心法：先找效率前沿模型就對了！ | 2天前 | [閱讀](https://www.bnext.com.tw/article/92060/managing-ai-coding-costs-scale) |
 | Salesforce為何把用戶入口讓給Claude，甘願當笨水管？軟體巨頭真正押注的是「資料護城河」 | 2天前 | [閱讀](https://www.bnext.com.tw/article/92142/salesforce-claudeforce-dumb-pipe) |
