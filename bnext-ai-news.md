@@ -1,8 +1,8 @@
 # bnext AI 新聞摘要總覽
 
 > 來源：[數位時代「AI 與大數據」分類頁](https://www.bnext.com.tw/categories/ai)  
-> 整理日期：2026-09-10  
-> 共計 20 頁、310 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
+> 整理日期：2026-09-14  
+> 共計 20 頁、319 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
 
 ---
 
@@ -10,16 +10,17 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 310 篇 |
-| 本次新增 | 4 篇 |
+| 文章總數 | 319 篇 |
+| 本次新增 | 9 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-09-10 |
+| 更新日期 | 2026-09-14 |
 
 ---
 
 ## 主題分類
 
 ### 產品發布與更新
+- [Grok Bot七周極速上線！Cursor工程師曝5大決策：為何堅持極簡介面？小型獨立團隊開發更快？](https://www.bnext.com.tw/article/92202/grok-bot-seven-weeks-five-product-decisions)
 - [ChatGPT Images 2.5有多強？生圖快50%、支援手繪草圖，實測「構圖幾乎照抄」](https://www.bnext.com.tw/article/92175/openai-chatgpt-images-2-5-sketch-launch)
 - [「這是新的能力等級」GPT-6 Astra發布：數學與駭客測試近乎滿分，高層宣告「AGI時代開端」](https://www.bnext.com.tw/article/92131/gpt-6-astra-critical-cybersecurity-launch)
 - [Meta推出旗艦模型Muse Spark 1.3！汪滔稱「史上最大躍進」，發文狠嗆：Gemini誰啊？](https://www.bnext.com.tw/article/92117/meta-muse-spark-1-3)
@@ -121,6 +122,9 @@
 - [Claude Opus 4.7提示詞攻略!Anthropic官方曝5大調整,如何讓舊prompt一次升級?](https://www.bnext.com.tw/article/91048/claude-opus-4-7-prompting-guide-for-better-responses)
 
 ### 企業應用案例
+- [Meet 大南方 x TTA South：從連鎖門市到醫院病房，三家大南方新創讓AI解方走進產業現場](https://www.bnext.com.tw/article/92215/ITRI%EF%BC%BF2026.09)
+- [專訪｜「網站的末日要來了！」AI搶走流量，中央社為何反而把500萬則新聞接進AI？](https://www.bnext.com.tw/article/92180/2026-cna-mcp)
+- [專訪｜AI幾天就能複製15年心血！凱鈿如何從SaaS「海嘯第一排」，變身海景第一排？](https://www.bnext.com.tw/article/92084/kdan-mobile-ai-infrastructure-transformation)
 - [代理式 AI 元年，企業級 AI 指揮中心怎麼做？UiPath 2026 CXO 圓桌會議，引領代理自動化時代的高階決策](https://www.bnext.com.tw/article/92176/UiPath0909)
 - [AI 實力獲國內外雙重肯定！大數據一舉拿下 WITSA Global AI Awards、臺灣 AI 卓越獎](https://www.bnext.com.tw/article/92136/big-data_2026_09)
 - [我是這樣訓練AI員工的！ORRA創辦人拆解4階段：每晚讓它拷問我，考核不過就淘汰](https://www.bnext.com.tw/article/91994/orra-ai-employee-training-4-stages)
@@ -165,6 +169,8 @@
 - [幫富士康、永豐餘做虛擬分身!他導入AI把20人團隊精簡到4人、產能反拉5倍](https://www.bnext.com.tw/article/91049/ai-professionals-rubens)
 
 ### 產業動態與市場
+- [Google AI掌門人親揭3大訊號！AI晶片走向「專用化」，台廠下一波機會在哪？](https://www.bnext.com.tw/article/92199/google-ai-tpu-custom-chip-taiwan-supply-chain)
+- [AGI概念發威！10檔台股AGI ETF近1年報酬全翻倍，00947、小台積電0052上榜](https://www.bnext.com.tw/article/92194/agi-etf-00947-00904-00913-0052)
 - [Salesforce為何把用戶入口讓給Claude，甘願當笨水管？軟體巨頭真正押注的是「資料護城河」](https://www.bnext.com.tw/article/92142/salesforce-claudeforce-dumb-pipe)
 - [Uber全球大裁3,300人！狠砍20%管理層、取消遠距，省下千億重押「自駕車」](https://www.bnext.com.tw/article/92121/uber-layoffs-10-percent-3300-jobs)
 - [國巨、南亞科誰更猛？謝金河解析輝達Rubin供應鏈，AI下一波強棒是誰？](https://www.bnext.com.tw/article/92102/nvidia-rubin-nanya-yageo-ai-supply-chain)
@@ -230,6 +236,7 @@
 - [行銷人AI實戰指南!「Gemini+NotebookLM」工作流,把10小時市場研究壓縮成20分鐘](https://www.bnext.com.tw/article/91075/gemini-notebooklm-8-step-market-research-workflow)
 
 ### 技術與安全
+- [「人類滅絕機率破10%！」Anthropic研究員棄股閃辭警告AI失控，天網真的要來了？](https://www.bnext.com.tw/article/92196/anthropic-researcher-coxon-quits-ai-safety-warning)
 - [1萬個AI代理解開90年數學難題！OpenAI為何反遭學者控「搶研究」？](https://www.bnext.com.tw/article/92182/openai-navier-stokes-proof-buckmaster-dispute)
 - [Anthropic推出最強模型Fable 5.1！評測跑分史上最高、降價 75%，單一任務成本為何反而貴2成？](https://www.bnext.com.tw/article/92093/anthropic-claude-fable-5-1-mythos-5-1)
 - [新創Zeabur遭駭懶人包：一組外洩AWS憑證，如何偷走用戶AI金鑰？受災戶6大QA一次看](https://www.bnext.com.tw/article/92061/zeabur-env-var-leak-api-key-stolen)
@@ -342,6 +349,8 @@
 - [無痛跳槽新AI工具!他教一招省力心法+提示詞,不必啃教學影片](https://www.bnext.com.tw/article/91043/how-to-adopt-ai-tools)
 
 ### 教學與工具應用
+- [Token帳單繳到心痛？官方公開3招優化設定，Claude API成本大省80%、準確率反破9成](https://www.bnext.com.tw/article/92211/claude-api-cost-optimization-prompt-cache-effort-guide)
+- [GPT Images 2.5官方生圖指南！流程圖、多輪修改怎麼做？22組提示詞＋萬用公式一次收](https://www.bnext.com.tw/article/92209/chatgpt-image2.5-prompt-guide)
 - [GPT-6 Astra提示詞怎麼寫？讓模型少問多做、定義指令優先級···5個關鍵調整一次看](https://www.bnext.com.tw/article/92149/gpt-6-astra-prompting-guide)
 - [GPT-6 Astra變強後，Skill檔反而該大掃除！Codex工程師點名5種舊指令拖累效率](https://www.bnext.com.tw/article/92145/gpt-6-astra-skill-cleanup-less-is-more)
 - [token預算暴衝怎麼辦？ AI獨角獸揭4招省錢心法：先找效率前沿模型就對了！](https://www.bnext.com.tw/article/92060/managing-ai-coding-costs-scale)
@@ -486,6 +495,15 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| Meet 大南方 x TTA South：從連鎖門市到醫院病房，三家大南方新創讓AI解方走進產業現場 | 1小時前 | [閱讀](https://www.bnext.com.tw/article/92215/ITRI%EF%BC%BF2026.09) |
+| Token帳單繳到心痛？官方公開3招優化設定，Claude API成本大省80%、準確率反破9成 | 2天前 | [閱讀](https://www.bnext.com.tw/article/92211/claude-api-cost-optimization-prompt-cache-effort-guide) |
+| GPT Images 2.5官方生圖指南！流程圖、多輪修改怎麼做？22組提示詞＋萬用公式一次收 | 2天前 | [閱讀](https://www.bnext.com.tw/article/92209/chatgpt-image2.5-prompt-guide) |
+| Grok Bot七周極速上線！Cursor工程師曝5大決策：為何堅持極簡介面？小型獨立團隊開發更快？ | 2天前 | [閱讀](https://www.bnext.com.tw/article/92202/grok-bot-seven-weeks-five-product-decisions) |
+| 專訪｜「網站的末日要來了！」AI搶走流量，中央社為何反而把500萬則新聞接進AI？ | 3天前 | [閱讀](https://www.bnext.com.tw/article/92180/2026-cna-mcp) |
+| Google AI掌門人親揭3大訊號！AI晶片走向「專用化」，台廠下一波機會在哪？ | 3天前 | [閱讀](https://www.bnext.com.tw/article/92199/google-ai-tpu-custom-chip-taiwan-supply-chain) |
+| 「人類滅絕機率破10%！」Anthropic研究員棄股閃辭警告AI失控，天網真的要來了？ | 3天前 | [閱讀](https://www.bnext.com.tw/article/92196/anthropic-researcher-coxon-quits-ai-safety-warning) |
+| AGI概念發威！10檔台股AGI ETF近1年報酬全翻倍，00947、小台積電0052上榜 | 3天前 | [閱讀](https://www.bnext.com.tw/article/92194/agi-etf-00947-00904-00913-0052) |
+| 專訪｜AI幾天就能複製15年心血！凱鈿如何從SaaS「海嘯第一排」，變身海景第一排？ | 4天前 | [閱讀](https://www.bnext.com.tw/article/92084/kdan-mobile-ai-infrastructure-transformation) |
 | 1萬個AI代理解開90年數學難題！OpenAI為何反遭學者控「搶研究」？ | 17小時前 | [閱讀](https://www.bnext.com.tw/article/92182/openai-navier-stokes-proof-buckmaster-dispute) |
 | 代理式 AI 元年，企業級 AI 指揮中心怎麼做？UiPath 2026 CXO 圓桌會議，引領代理自動化時代的高階決策 | 17小時前 | [閱讀](https://www.bnext.com.tw/article/92176/UiPath0909) |
 | ChatGPT Images 2.5有多強？生圖快50%、支援手繪草圖，實測「構圖幾乎照抄」 | 22小時前 | [閱讀](https://www.bnext.com.tw/article/92175/openai-chatgpt-images-2-5-sketch-launch) |
