@@ -1,8 +1,8 @@
 # bnext AI 新聞摘要總覽
 
 > 來源：[數位時代「AI 與大數據」分類頁](https://www.bnext.com.tw/categories/ai)  
-> 整理日期：2026-09-14  
-> 共計 20 頁、319 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
+> 整理日期：2026-09-18  
+> 共計 20 頁、328 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
 
 ---
 
@@ -10,16 +10,17 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 319 篇 |
+| 文章總數 | 328 篇 |
 | 本次新增 | 9 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-09-14 |
+| 更新日期 | 2026-09-18 |
 
 ---
 
 ## 主題分類
 
 ### 產品發布與更新
+- [語音AI新霸主？Google推出Gemini 3.8 Live雙模型，實測奪冠還能「邊聊邊做事」](https://www.bnext.com.tw/article/92265/google-gemini-3-8-live-extended-thinking-launch)
 - [Grok Bot七周極速上線！Cursor工程師曝5大決策：為何堅持極簡介面？小型獨立團隊開發更快？](https://www.bnext.com.tw/article/92202/grok-bot-seven-weeks-five-product-decisions)
 - [ChatGPT Images 2.5有多強？生圖快50%、支援手繪草圖，實測「構圖幾乎照抄」](https://www.bnext.com.tw/article/92175/openai-chatgpt-images-2-5-sketch-launch)
 - [「這是新的能力等級」GPT-6 Astra發布：數學與駭客測試近乎滿分，高層宣告「AGI時代開端」](https://www.bnext.com.tw/article/92131/gpt-6-astra-critical-cybersecurity-launch)
@@ -169,6 +170,8 @@
 - [幫富士康、永豐餘做虛擬分身!他導入AI把20人團隊精簡到4人、產能反拉5倍](https://www.bnext.com.tw/article/91049/ai-professionals-rubens)
 
 ### 產業動態與市場
+- [AI帶動記憶體產能大戰！SK海力士傳結盟英特爾赴美設廠，2大可能方案一次看](https://www.bnext.com.tw/article/92285/sk-hynix-intel-talks-us-memory-chip-production)
+- [黃仁勳演講，川普一通電話打進來！狂喊：資料中心是未來25年的石油，會讓人民富起來](https://www.bnext.com.tw/article/92245/trump-ai-doomer-hoax-huang-call)
 - [Google AI掌門人親揭3大訊號！AI晶片走向「專用化」，台廠下一波機會在哪？](https://www.bnext.com.tw/article/92199/google-ai-tpu-custom-chip-taiwan-supply-chain)
 - [AGI概念發威！10檔台股AGI ETF近1年報酬全翻倍，00947、小台積電0052上榜](https://www.bnext.com.tw/article/92194/agi-etf-00947-00904-00913-0052)
 - [Salesforce為何把用戶入口讓給Claude，甘願當笨水管？軟體巨頭真正押注的是「資料護城河」](https://www.bnext.com.tw/article/92142/salesforce-claudeforce-dumb-pipe)
@@ -236,6 +239,9 @@
 - [行銷人AI實戰指南!「Gemini+NotebookLM」工作流,把10小時市場研究壓縮成20分鐘](https://www.bnext.com.tw/article/91075/gemini-notebooklm-8-step-market-research-workflow)
 
 ### 技術與安全
+- [AI該踩煞車了？祖克柏回應「AI減速論」：市場與法律會逼出安全，根本不必等別人](https://www.bnext.com.tw/article/92264/zuckerberg-responds-amodei-ai-safety-liability-market-evaluators)
+- [跟AI的對話被看光光？一次搞懂ChatGPT、Claude的9大隱私防線，4步驟保護機密不外洩](https://www.bnext.com.tw/article/92235/chatgpt-claude-privacy-9-stops-opt-out-training)
+- [AI巨頭罕見同喊「AI踩煞車」！Anthropic提3步計畫，為何連馬斯克、奧特曼都開始擔心AI失控？](https://www.bnext.com.tw/article/92223/ai-ceos-pace-the-frontier-amodei-altman-musk-sacks)
 - [「人類滅絕機率破10%！」Anthropic研究員棄股閃辭警告AI失控，天網真的要來了？](https://www.bnext.com.tw/article/92196/anthropic-researcher-coxon-quits-ai-safety-warning)
 - [1萬個AI代理解開90年數學難題！OpenAI為何反遭學者控「搶研究」？](https://www.bnext.com.tw/article/92182/openai-navier-stokes-proof-buckmaster-dispute)
 - [Anthropic推出最強模型Fable 5.1！評測跑分史上最高、降價 75%，單一任務成本為何反而貴2成？](https://www.bnext.com.tw/article/92093/anthropic-claude-fable-5-1-mythos-5-1)
@@ -294,6 +300,7 @@
 - [從模型競爭走向算力經濟,INFINITIX 助客戶打造軟體定義 AI 基礎建設](https://www.bnext.com.tw/article/91042/infinitix_ai_2026_05)
 
 ### 職場與管理
+- [比爾蓋茲示警：AI恐淪「富人的工具」！哪些工作最先受衝擊？4類職業被點名](https://www.bnext.com.tw/article/92269/bill-gates-ai-inequality-human-reserved-gates-foundation)
 - [「我超愛比爾蓋茲，但我看不到他看到的東西」黃仁勳反駁AI失業論：它是史無前例的工作創造者！](https://www.bnext.com.tw/article/92095/jensen-huang-bill-gates-ai-jobs-debate)
 - [「最美的程式語言是英文！」Ruby on Rails創始人放棄25年手寫堅持，他為何全面擁抱AI寫碼？](https://www.bnext.com.tw/article/92085/dhh-ai-programming-lex-fridman-501)
 - [OpenAI為何砍掉Sora與Atlas？奧特曼揭「冪次法則」：寧可賭錯也不要保守，要玩就要玩大的](https://www.bnext.com.tw/article/91965/altman-power-law-openai-safety)
@@ -349,6 +356,9 @@
 - [無痛跳槽新AI工具!他教一招省力心法+提示詞,不必啃教學影片](https://www.bnext.com.tw/article/91043/how-to-adopt-ai-tools)
 
 ### 教學與工具應用
+- [「我用AI，是為了離開電腦！」SpaceXAI設計師公開Grok Bot工作流：2張截圖、一段語音就能改Figma](https://www.bnext.com.tw/article/92273/grok-bot-figma-screenshot-workflow)
+- [跟AI的對話被看光光？一次搞懂ChatGPT、Claude的9大隱私防線，4步驟保護機密不外洩](https://www.bnext.com.tw/article/92235/chatgpt-claude-privacy-9-stops-opt-out-training)
+- [Codex入門完整教學！10步驟＋提示詞範例，打造你的AI專案工作區](https://www.bnext.com.tw/article/90840/getting-started-with-codex-as-your-ai-work-agent)
 - [Token帳單繳到心痛？官方公開3招優化設定，Claude API成本大省80%、準確率反破9成](https://www.bnext.com.tw/article/92211/claude-api-cost-optimization-prompt-cache-effort-guide)
 - [GPT Images 2.5官方生圖指南！流程圖、多輪修改怎麼做？22組提示詞＋萬用公式一次收](https://www.bnext.com.tw/article/92209/chatgpt-image2.5-prompt-guide)
 - [GPT-6 Astra提示詞怎麼寫？讓模型少問多做、定義指令優先級···5個關鍵調整一次看](https://www.bnext.com.tw/article/92149/gpt-6-astra-prompting-guide)
@@ -432,6 +442,8 @@
 - [無痛跳槽新AI工具!他教一招省力心法+提示詞,不必啃教學影片](https://www.bnext.com.tw/article/91043/how-to-adopt-ai-tools)
 
 ### 政策與法規
+- [黃仁勳演講，川普一通電話打進來！狂喊：資料中心是未來25年的石油，會讓人民富起來](https://www.bnext.com.tw/article/92245/trump-ai-doomer-hoax-huang-call)
+- [AI巨頭罕見同喊「AI踩煞車」！Anthropic提3步計畫，為何連馬斯克、奧特曼都開始擔心AI失控？](https://www.bnext.com.tw/article/92223/ai-ceos-pace-the-frontier-amodei-altman-musk-sacks)
 - [AI連何時會吃榴槤都懂！新加坡讓巨頭繞不過它](https://www.bnext.com.tw/article/92041/singapore-sovereign-ai-sea-lion)
 - [不只課晶片！川普政府擬擴大半導體關稅：筆電、遊戲機恐遭殃，科技業為何憂心「自斷手腳」？](https://www.bnext.com.tw/article/92033/us-chip-tariff-may-expand-to-laptops-and-consoles)
 - [社群河道無限滾動害孩子憂鬱？全美3,000件「社群成癮」官司開打，Meta、TikTok遭控焦慮元兇](https://www.bnext.com.tw/article/91834/meta-tiktok-social-media-addiction-lawsuits-ninth-circuit-ruling)
@@ -495,6 +507,15 @@
 
 | 標題 | 發布時間 | 連結 |
 |------|----------|------|
+| AI帶動記憶體產能大戰！SK海力士傳結盟英特爾赴美設廠，2大可能方案一次看 | 21小時前 | [閱讀](https://www.bnext.com.tw/article/92285/sk-hynix-intel-talks-us-memory-chip-production) |
+| 「我用AI，是為了離開電腦！」SpaceXAI設計師公開Grok Bot工作流：2張截圖、一段語音就能改Figma | 22小時前 | [閱讀](https://www.bnext.com.tw/article/92273/grok-bot-figma-screenshot-workflow) |
+| 比爾蓋茲示警：AI恐淪「富人的工具」！哪些工作最先受衝擊？4類職業被點名 | 1天前 | [閱讀](https://www.bnext.com.tw/article/92269/bill-gates-ai-inequality-human-reserved-gates-foundation) |
+| 語音AI新霸主？Google推出Gemini 3.8 Live雙模型，實測奪冠還能「邊聊邊做事」 | 1天前 | [閱讀](https://www.bnext.com.tw/article/92265/google-gemini-3-8-live-extended-thinking-launch) |
+| AI該踩煞車了？祖克柏回應「AI減速論」：市場與法律會逼出安全，根本不必等別人 | 1天前 | [閱讀](https://www.bnext.com.tw/article/92264/zuckerberg-responds-amodei-ai-safety-liability-market-evaluators) |
+| 跟AI的對話被看光光？一次搞懂ChatGPT、Claude的9大隱私防線，4步驟保護機密不外洩 | 1天前 | [閱讀](https://www.bnext.com.tw/article/92235/chatgpt-claude-privacy-9-stops-opt-out-training) |
+| 黃仁勳演講，川普一通電話打進來！狂喊：資料中心是未來25年的石油，會讓人民富起來 | 2天前 | [閱讀](https://www.bnext.com.tw/article/92245/trump-ai-doomer-hoax-huang-call) |
+| Codex入門完整教學！10步驟＋提示詞範例，打造你的AI專案工作區 | 3天前 | [閱讀](https://www.bnext.com.tw/article/90840/getting-started-with-codex-as-your-ai-work-agent) |
+| AI巨頭罕見同喊「AI踩煞車」！Anthropic提3步計畫，為何連馬斯克、奧特曼都開始擔心AI失控？ | 3天前 | [閱讀](https://www.bnext.com.tw/article/92223/ai-ceos-pace-the-frontier-amodei-altman-musk-sacks) |
 | Meet 大南方 x TTA South：從連鎖門市到醫院病房，三家大南方新創讓AI解方走進產業現場 | 1小時前 | [閱讀](https://www.bnext.com.tw/article/92215/ITRI%EF%BC%BF2026.09) |
 | Token帳單繳到心痛？官方公開3招優化設定，Claude API成本大省80%、準確率反破9成 | 2天前 | [閱讀](https://www.bnext.com.tw/article/92211/claude-api-cost-optimization-prompt-cache-effort-guide) |
 | GPT Images 2.5官方生圖指南！流程圖、多輪修改怎麼做？22組提示詞＋萬用公式一次收 | 2天前 | [閱讀](https://www.bnext.com.tw/article/92209/chatgpt-image2.5-prompt-guide) |
