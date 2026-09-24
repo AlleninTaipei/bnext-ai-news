@@ -1,8 +1,8 @@
 # bnext AI 新聞摘要總覽
 
 > 來源：[數位時代「AI 與大數據」分類頁](https://www.bnext.com.tw/categories/ai)  
-> 整理日期：2026-09-18  
-> 追蹤最新 20 頁、共計 328 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
+> 整理日期：2026-09-24  
+> 追蹤最新 20 頁、共計 339 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
 
 ---
 
@@ -10,10 +10,10 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 328 篇 |
-| 本次新增 | 9 篇 |
+| 文章總數 | 339 篇 |
+| 本次新增 | 11 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-09-18 |
+| 更新日期 | 2026-09-24 |
 
 ---
 
@@ -21,7 +21,23 @@
 
 保留最近 2 次更新新增的文章, 發布時間為抓取當下的相對時間.
 
-### 2026-09-18 本次新增 (9 篇)
+### 2026-09-24 本次新增 (11 篇)
+
+| 標題 | 發布時間 | 分類 | 連結 |
+|------|----------|------|------|
+| GPT-6家族擴編！OpenAI推出兩款平價模型Sol與Luna：智力持平前代、API價格打5折 | 22小時前 | 產品發布與更新 | [閱讀](https://www.bnext.com.tw/article/92355/openai-gpt-6-sol-luna-api-price-cut) |
+| Claude Opus 5.5登場！開發者實測直呼「從Codex殺回來」，效能直逼Fable、價格砍6成 | 22小時前 | 產品發布與更新 | [閱讀](https://www.bnext.com.tw/article/92356/anthropic-claude-opus-5-5-launch-cost-cut) |
+| 工程師淪為「按Enter作業員」？每天工作13小時只為餵AI程式碼，馬斯克也回「不妙」 | 1天前 | 職場與管理 | [閱讀](https://www.bnext.com.tw/article/92338/ai-developer-engineer) |
+| SpaceXAI發布Grok 4.7！號稱「快一倍、半價」，實測為何跌破眼鏡？ | 1天前 | 產品發布與更新 | [閱讀](https://www.bnext.com.tw/article/92337/spacexai-grok-4-7-speed-price-claims) |
+| Meta最強AI助理Muse爆紅！股價狂飆11%，為何遭電商巨頭亞馬遜急封殺？ | 1天前 | 產品發布與更新 / 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92334/meta-muse-ai-agent-tops-us-app-charts-amazon-blocks) |
+| AI高薪工作都被誰拿走？千禧世代拿下6成AI長職位、Z世代攻占近7成熱門技術職 | 2天前 | 職場與管理 / 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92310/linkedin-ai-talent-divide-2026-salary-millennials-gender-education) |
+| 不能生成文字卻暴紅！ChatGPT技術推手打造AI決策模型Jev，為何讓開發者搶到當機？ | 2天前 | 產品發布與更新 / 技術與安全 | [閱讀](https://www.bnext.com.tw/article/92319/typesafe-jev-decision-model-explainer) |
+| 「我們身處一個顛倒的世界！」美股估值罕見衝上42倍，債王岡拉克砍AI持股、他看見哪些危險訊號？ | 5天前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92301/jeffrey-gundlach-ai-stocks-valuation) |
+| AI會毀滅人類？吳恩達批「AI滅絕論」只是公關操作：科幻多於科學，別再拿來嚇人 | 5天前 | 技術與安全 | [閱讀](https://www.bnext.com.tw/article/92303/andrew-ng-ai-extinction-fears-science-fiction) |
+| 開發者免盯場！Claude Code推出新版「專案」功能：只要設定目標，AI就能自動完成多線開發 | 5天前 | 產品發布與更新 | [閱讀](https://www.bnext.com.tw/article/92300/claude-code-projects-redesign-parallel-threads) |
+| Grok Bot排程怎麼用？3步驟設定Routine，每天8點自動整理AI新聞晨報 | 5天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/92295/grok-bot-routine-schedule-ai-news-briefing) |
+
+### 2026-09-18 前次新增 (9 篇)
 
 | 標題 | 發布時間 | 分類 | 連結 |
 |------|----------|------|------|
@@ -35,25 +51,17 @@
 | Codex入門完整教學！10步驟＋提示詞範例，打造你的AI專案工作區 | 3天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/90840/getting-started-with-codex-as-your-ai-work-agent) |
 | AI巨頭罕見同喊「AI踩煞車」！Anthropic提3步計畫，為何連馬斯克、奧特曼都開始擔心AI失控？ | 3天前 | 技術與安全 / 政策與法規 | [閱讀](https://www.bnext.com.tw/article/92223/ai-ceos-pace-the-frontier-amodei-altman-musk-sacks) |
 
-### 2026-09-14 前次新增 (9 篇)
-
-| 標題 | 發布時間 | 分類 | 連結 |
-|------|----------|------|------|
-| Meet 大南方 x TTA South：從連鎖門市到醫院病房，三家大南方新創讓AI解方走進產業現場 | 1小時前 | 企業應用案例 | [閱讀](https://www.bnext.com.tw/article/92215/ITRI%EF%BC%BF2026.09) |
-| Token帳單繳到心痛？官方公開3招優化設定，Claude API成本大省80%、準確率反破9成 | 2天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/92211/claude-api-cost-optimization-prompt-cache-effort-guide) |
-| GPT Images 2.5官方生圖指南！流程圖、多輪修改怎麼做？22組提示詞＋萬用公式一次收 | 2天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/92209/chatgpt-image2.5-prompt-guide) |
-| Grok Bot七周極速上線！Cursor工程師曝5大決策：為何堅持極簡介面？小型獨立團隊開發更快？ | 2天前 | 產品發布與更新 | [閱讀](https://www.bnext.com.tw/article/92202/grok-bot-seven-weeks-five-product-decisions) |
-| 專訪｜「網站的末日要來了！」AI搶走流量，中央社為何反而把500萬則新聞接進AI？ | 3天前 | 企業應用案例 | [閱讀](https://www.bnext.com.tw/article/92180/2026-cna-mcp) |
-| Google AI掌門人親揭3大訊號！AI晶片走向「專用化」，台廠下一波機會在哪？ | 3天前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92199/google-ai-tpu-custom-chip-taiwan-supply-chain) |
-| 「人類滅絕機率破10%！」Anthropic研究員棄股閃辭警告AI失控，天網真的要來了？ | 3天前 | 技術與安全 | [閱讀](https://www.bnext.com.tw/article/92196/anthropic-researcher-coxon-quits-ai-safety-warning) |
-| AGI概念發威！10檔台股AGI ETF近1年報酬全翻倍，00947、小台積電0052上榜 | 3天前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92194/agi-etf-00947-00904-00913-0052) |
-| 專訪｜AI幾天就能複製15年心血！凱鈿如何從SaaS「海嘯第一排」，變身海景第一排？ | 4天前 | 企業應用案例 | [閱讀](https://www.bnext.com.tw/article/92084/kdan-mobile-ai-infrastructure-transformation) |
-
 ---
 
 ## 主題分類
 
 ### 產品發布與更新
+- [GPT-6家族擴編！OpenAI推出兩款平價模型Sol與Luna：智力持平前代、API價格打5折](https://www.bnext.com.tw/article/92355/openai-gpt-6-sol-luna-api-price-cut)
+- [Claude Opus 5.5登場！開發者實測直呼「從Codex殺回來」，效能直逼Fable、價格砍6成](https://www.bnext.com.tw/article/92356/anthropic-claude-opus-5-5-launch-cost-cut)
+- [SpaceXAI發布Grok 4.7！號稱「快一倍、半價」，實測為何跌破眼鏡？](https://www.bnext.com.tw/article/92337/spacexai-grok-4-7-speed-price-claims)
+- [Meta最強AI助理Muse爆紅！股價狂飆11%，為何遭電商巨頭亞馬遜急封殺？](https://www.bnext.com.tw/article/92334/meta-muse-ai-agent-tops-us-app-charts-amazon-blocks)
+- [不能生成文字卻暴紅！ChatGPT技術推手打造AI決策模型Jev，為何讓開發者搶到當機？](https://www.bnext.com.tw/article/92319/typesafe-jev-decision-model-explainer)
+- [開發者免盯場！Claude Code推出新版「專案」功能：只要設定目標，AI就能自動完成多線開發](https://www.bnext.com.tw/article/92300/claude-code-projects-redesign-parallel-threads)
 - [語音AI新霸主？Google推出Gemini 3.8 Live雙模型，實測奪冠還能「邊聊邊做事」](https://www.bnext.com.tw/article/92265/google-gemini-3-8-live-extended-thinking-launch)
 - [Grok Bot七周極速上線！Cursor工程師曝5大決策：為何堅持極簡介面？小型獨立團隊開發更快？](https://www.bnext.com.tw/article/92202/grok-bot-seven-weeks-five-product-decisions)
 - [ChatGPT Images 2.5有多強？生圖快50%、支援手繪草圖，實測「構圖幾乎照抄」](https://www.bnext.com.tw/article/92175/openai-chatgpt-images-2-5-sketch-launch)
@@ -204,6 +212,9 @@
 - [幫富士康、永豐餘做虛擬分身!他導入AI把20人團隊精簡到4人、產能反拉5倍](https://www.bnext.com.tw/article/91049/ai-professionals-rubens)
 
 ### 產業動態與市場
+- [Meta最強AI助理Muse爆紅！股價狂飆11%，為何遭電商巨頭亞馬遜急封殺？](https://www.bnext.com.tw/article/92334/meta-muse-ai-agent-tops-us-app-charts-amazon-blocks)
+- [AI高薪工作都被誰拿走？千禧世代拿下6成AI長職位、Z世代攻占近7成熱門技術職](https://www.bnext.com.tw/article/92310/linkedin-ai-talent-divide-2026-salary-millennials-gender-education)
+- [「我們身處一個顛倒的世界！」美股估值罕見衝上42倍，債王岡拉克砍AI持股、他看見哪些危險訊號？](https://www.bnext.com.tw/article/92301/jeffrey-gundlach-ai-stocks-valuation)
 - [AI帶動記憶體產能大戰！SK海力士傳結盟英特爾赴美設廠，2大可能方案一次看](https://www.bnext.com.tw/article/92285/sk-hynix-intel-talks-us-memory-chip-production)
 - [黃仁勳演講，川普一通電話打進來！狂喊：資料中心是未來25年的石油，會讓人民富起來](https://www.bnext.com.tw/article/92245/trump-ai-doomer-hoax-huang-call)
 - [Google AI掌門人親揭3大訊號！AI晶片走向「專用化」，台廠下一波機會在哪？](https://www.bnext.com.tw/article/92199/google-ai-tpu-custom-chip-taiwan-supply-chain)
@@ -273,6 +284,8 @@
 - [行銷人AI實戰指南!「Gemini+NotebookLM」工作流,把10小時市場研究壓縮成20分鐘](https://www.bnext.com.tw/article/91075/gemini-notebooklm-8-step-market-research-workflow)
 
 ### 技術與安全
+- [不能生成文字卻暴紅！ChatGPT技術推手打造AI決策模型Jev，為何讓開發者搶到當機？](https://www.bnext.com.tw/article/92319/typesafe-jev-decision-model-explainer)
+- [AI會毀滅人類？吳恩達批「AI滅絕論」只是公關操作：科幻多於科學，別再拿來嚇人](https://www.bnext.com.tw/article/92303/andrew-ng-ai-extinction-fears-science-fiction)
 - [AI該踩煞車了？祖克柏回應「AI減速論」：市場與法律會逼出安全，根本不必等別人](https://www.bnext.com.tw/article/92264/zuckerberg-responds-amodei-ai-safety-liability-market-evaluators)
 - [跟AI的對話被看光光？一次搞懂ChatGPT、Claude的9大隱私防線，4步驟保護機密不外洩](https://www.bnext.com.tw/article/92235/chatgpt-claude-privacy-9-stops-opt-out-training)
 - [AI巨頭罕見同喊「AI踩煞車」！Anthropic提3步計畫，為何連馬斯克、奧特曼都開始擔心AI失控？](https://www.bnext.com.tw/article/92223/ai-ceos-pace-the-frontier-amodei-altman-musk-sacks)
@@ -334,6 +347,8 @@
 - [從模型競爭走向算力經濟,INFINITIX 助客戶打造軟體定義 AI 基礎建設](https://www.bnext.com.tw/article/91042/infinitix_ai_2026_05)
 
 ### 職場與管理
+- [工程師淪為「按Enter作業員」？每天工作13小時只為餵AI程式碼，馬斯克也回「不妙」](https://www.bnext.com.tw/article/92338/ai-developer-engineer)
+- [AI高薪工作都被誰拿走？千禧世代拿下6成AI長職位、Z世代攻占近7成熱門技術職](https://www.bnext.com.tw/article/92310/linkedin-ai-talent-divide-2026-salary-millennials-gender-education)
 - [比爾蓋茲示警：AI恐淪「富人的工具」！哪些工作最先受衝擊？4類職業被點名](https://www.bnext.com.tw/article/92269/bill-gates-ai-inequality-human-reserved-gates-foundation)
 - [「我超愛比爾蓋茲，但我看不到他看到的東西」黃仁勳反駁AI失業論：它是史無前例的工作創造者！](https://www.bnext.com.tw/article/92095/jensen-huang-bill-gates-ai-jobs-debate)
 - [「最美的程式語言是英文！」Ruby on Rails創始人放棄25年手寫堅持，他為何全面擁抱AI寫碼？](https://www.bnext.com.tw/article/92085/dhh-ai-programming-lex-fridman-501)
@@ -390,6 +405,7 @@
 - [無痛跳槽新AI工具!他教一招省力心法+提示詞,不必啃教學影片](https://www.bnext.com.tw/article/91043/how-to-adopt-ai-tools)
 
 ### 教學與工具應用
+- [Grok Bot排程怎麼用？3步驟設定Routine，每天8點自動整理AI新聞晨報](https://www.bnext.com.tw/article/92295/grok-bot-routine-schedule-ai-news-briefing)
 - [「我用AI，是為了離開電腦！」SpaceXAI設計師公開Grok Bot工作流：2張截圖、一段語音就能改Figma](https://www.bnext.com.tw/article/92273/grok-bot-figma-screenshot-workflow)
 - [跟AI的對話被看光光？一次搞懂ChatGPT、Claude的9大隱私防線，4步驟保護機密不外洩](https://www.bnext.com.tw/article/92235/chatgpt-claude-privacy-9-stops-opt-out-training)
 - [Codex入門完整教學！10步驟＋提示詞範例，打造你的AI專案工作區](https://www.bnext.com.tw/article/90840/getting-started-with-codex-as-your-ai-work-agent)
