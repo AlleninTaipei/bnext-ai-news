@@ -30,7 +30,7 @@ D:\repo\bnext-ai-news\
 
 ### 第一步：抓取最新文章
 
-用 WebFetch 依序抓取以下 20 頁，每頁提取所有文章的標題、發布時間、連結 URL：
+用 curl 依序抓取以下 20 頁, 存到 scratchpad 暫存目錄, 再以 Python 解析每頁所有文章的標題, 發布時間, 連結 URL:
 
 ```
 https://www.bnext.com.tw/categories/ai
@@ -39,7 +39,20 @@ https://www.bnext.com.tw/categories/ai?page=2
 https://www.bnext.com.tw/categories/ai?page=20
 ```
 
-固定只抓這 20 頁，不繼續往第 21 頁以後抓取。
+```bash
+for i in $(seq 1 20); do
+  curl -s -A "Mozilla/5.0" -o "$TMP/ai$i.html" -w "$i %{http_code}\n" "https://www.bnext.com.tw/categories/ai?page=$i"
+done
+```
+
+固定只抓這 20 頁, 不繼續往第 21 頁以後抓取.
+
+解析注意事項:
+
+- 每篇文章以 `<a href="https://www.bnext.com.tw/article/<ID>/<slug>" ... class="absolute inset-0"></a>` 開頭, 其後的 `<h2>` 為標題, 再往後 `<span>|</span><span>4 天前</span>` 的最後一個 `<span>` 為發布時間. 同一篇在頁面中可能出現兩次, 以 article ID 去重.
+- 每頁約 13 篇. 另有 4 篇固定的側欄或廣告文章 (沒有 `absolute inset-0` 結構), 每頁都相同, 應忽略.
+- 網站時間帶空格 (`36 分前`), 寫入時去掉空格 (`36分前`), 與既有紀錄一致.
+- Python 讀寫檔一律指定 `encoding="utf-8"`, 結果寫到檔案而非 stdout. Windows 主控台預設 cp950, 且 `python -I` 會忽略 `PYTHONIOENCODING`.
 
 ### 第二步: 比對新舊, 識別新增文章
 
