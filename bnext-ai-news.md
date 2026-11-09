@@ -1,8 +1,8 @@
 # bnext AI 新聞摘要總覽
 
 > 來源：[數位時代「AI 與大數據」分類頁](https://www.bnext.com.tw/categories/ai)  
-> 整理日期：2026-11-04  
-> 追蹤最新 20 頁、共計 459 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
+> 整理日期：2026-11-09  
+> 追蹤最新 20 頁、共計 470 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
 
 ---
 
@@ -10,10 +10,10 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 459 篇 |
-| 本次新增 | 26 篇 |
+| 文章總數 | 470 篇 |
+| 本次新增 | 11 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-11-04 |
+| 更新日期 | 2026-11-09 |
 
 ---
 
@@ -21,7 +21,23 @@
 
 保留最近 2 次更新新增的文章, 發布時間為抓取當下的相對時間.
 
-### 2026-11-04 本次新增 (26 篇)
+### 2026-11-09 本次新增 (11 篇)
+
+| 標題 | 發布時間 | 分類 | 連結 |
+|------|----------|------|------|
+| 黃仁勳坦承婚外情，對象疑涉中國間諜！輝達啟動獨立調查 | 49分前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92969/jensen-huang-affair-nvidia-china-spy-investigation) |
+| 「立即暫停全美資料中心建設！」民主黨議員擬推「超級AI禁令」草案，罪刑比照核武罪 | 2天前 | 政策與法規 | [閱讀](https://www.bnext.com.tw/article/92963/democrats-asi-ban-data-center-moratorium) |
+| 受不了YouTube推爛片？AI大神用Claude自建「精華版YT」，如何4步驟客製化專屬推薦系統？ | 2天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/92965/karpathy-hackertube-claude-youtube-alternative) |
+| AI轉型不只導入工具，更要培養人才！從組織升級到製造現場，打造產業AI即戰力 | 2天前 | 企業應用案例 / 職場與管理 | [閱讀](https://www.bnext.com.tw/article/92957/2026aitalentforum) |
+| 「我對MBA學生一直很失望！」奧特曼：別追5年前的熱門，現在該做新東西 | 2天前 | 職場與管理 | [閱讀](https://www.bnext.com.tw/article/92956/sam-altman-mba-career-advice) |
+| Claude Code明星產品經理跳槽OpenAI！Cat Wu有何本事？為何成AI巨頭搶才目標？ | 2天前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92950/cat-wu-claude-code-anthropic-openai) |
+| ChatGPT動畫GIF怎麼做？免費版能用嗎？照片轉動畫、速度調整教學，附10組實用提示詞 | 2天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts) |
+| 全美爆發「反資料中心」投票潮！38地區通過禁令、過半選民反對，AI擴張面臨政治逆風 | 3天前 | 政策與法規 / 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92933/us-midterms-data-center-ballot-backlash) |
+| 怎麼讓ChatGPT推薦你的文章？2,484次實測揭密：「改標題」就能讓AI引用率飆升 | 3天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/92922/geo-ai-agents-recommend-articles-7-rules) |
+| 民主黨拿下參眾兩院，美國AI資料中心建設會卡關嗎？專家解析3大變數 | 4天前 | 政策與法規 / 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92921/us-midterm-election-ai-stocks-wu-chin-jung) |
+| Canva爆13年最大重組！1,271人受影響佔22%員工、三大部門合一，CEO坦言成長10年來首放緩 | 4天前 | 產業動態與市場 / 職場與管理 | [閱讀](https://www.bnext.com.tw/article/92909/canva-restructuring-1271-staff-impacted) |
+
+### 2026-11-04 前次新增 (26 篇)
 
 | 標題 | 發布時間 | 分類 | 連結 |
 |------|----------|------|------|
@@ -51,38 +67,6 @@
 | 不敢把密碼交給AI？Claude攜手密碼管理平台1Password，5步驟設定實現AI代理自動登入 | 1星期前 | 教學與工具應用 / 技術與安全 | [閱讀](https://www.bnext.com.tw/article/92807/1password-claude-ai-agent-login-guide) |
 | Anthropic遞單拚上市！拆解S-1招股書：半年營收翻14倍，為何仍虧807億美元？ | 1星期前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92798/anthropic-s1-revenue-net-loss) |
 | 馬斯克警告AI雲端恐迎「孔雀魚級死亡潮」！算力需求爆棚，為何融資還轉冷？ | 1星期前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92793/musk-neocloud-guppy-die-off-ai-financing) |
-
-### 2026-10-27 前次新增 (27 篇)
-
-| 標題 | 發布時間 | 分類 | 連結 |
-|------|----------|------|------|
-| AI 不只搶流量，下一步連交易都要拿走！ iKala 程世嘉：AI 不認識你，廣告下再多都沒用 | 36分前 | 產業動態與市場 / 企業應用案例 | [閱讀](https://www.bnext.com.tw/article/92261/a281xs8i) |
-| 讓AI不只回答問題，還會思考：六個推理型提示詞實戰筆記 | 19小時前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/92783/ai-reasoning-prompt-six-frameworks-chain-of-thought-self-consistency) |
-| 中國過半AI算力都拿去拍爽劇？紅果短劇爆紅，豆包：字節影片生成僅占約一成 | 1天前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92741/hongguo-short-drama-doubao-ai-compute-share) |
-| 晶片設計機密不出內網！台大打造專用AI引擎，台灣7大前瞻技術一次看 | 2天前 | 技術與安全 | [閱讀](https://www.bnext.com.tw/article/92788/ntu-ic-design-ai-engine-taiwan-7-frontier-technologies) |
-| AI開店一年，誰最會賺錢？18款模型模擬「當老闆」，它讓資產增至14倍！ | 3天前 | 技術與安全 / 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92747/ai-agent-ecommerce-bench-365-days-online-store-experiment) |
-| 全球PC出貨暴跌20%，創史上最慘第三季！說好的AI換機潮沒來，電腦卻貴了2成 | 3天前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92616/ai-pc-shipments-crash-2026-q3-ram-shortage) |
-| 91APP、Zeabur接連遭駭！從台灣到全球6起資安事件，為何都敗在一把「鑰匙」？ | 3天前 | 技術與安全 | [閱讀](https://www.bnext.com.tw/article/92778/2026-october-cybersecurity-breaches-keys-91app-zeabur) |
-| 公司導入AI，有哪些補助可以申請？2026政府AI補助、申請資格與期限一次看 | 3天前 | 政策與法規 | [閱讀](https://www.bnext.com.tw/article/92736/sme-ai-subsidy-tax-credit-2026) |
-| AI泡沫疑慮再起！英特爾、AMD重挫8%，特斯拉、Meta為何讓晶片股集體跳水？ | 3天前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92768/us-chip-stocks-plunge-nvidia-amd-intel) |
-| 經營臉書粉專，恐授權Meta爬取你的官網？一則新條款，為何讓網站業者人心惶惶 | 4天前 | 政策與法規 / 技術與安全 | [閱讀](https://www.bnext.com.tw/article/92714/meta-commercial-terms-web-scraping) |
-| 祖克柏總算押對寶！AI助理Muse上線45天衝破千萬用戶，為何它是Meta智慧眼鏡變現關鍵？ | 4天前 | 產業動態與市場 / 產品發布與更新 | [閱讀](https://www.bnext.com.tw/article/92759/meta-muse-10-million-users-q3-2026-earnings) |
-| Claude不等你下指令了！Anthropic推出Duet，主動找你報告、關掉電腦也能工作 | 4天前 | 產品發布與更新 | [閱讀](https://www.bnext.com.tw/article/92756/anthropic-claude-duet-proactive-ai-agent) |
-| AI Ready成零售入場券！SHOPLINE年度大會：AI流量時代，品牌如何被看見？ | 4天前 | 企業應用案例 | [閱讀](https://www.bnext.com.tw/article/92682/stwv8x9q) |
-| PHP是什麼？全球網站爆重大資安漏洞：為何連政府、醫院都緊急關站？一般人會受影響嗎？ | 4天前 | 技術與安全 | [閱讀](https://www.bnext.com.tw/article/92750/php-security-vulnerability-2026) |
-| SpaceX最大收入來源換人！AI營收首度超車Starlink，出租算力為何成新引擎？ | 5天前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92737/spacex-q3-2026-earnings-ai-revenue-overtakes-starlink) |
-| AI訓練師專訪：在暗處與AI鬥智，超過癮！每抓到一個BUG，都有機會讓產業更好 | 5天前 | 職場與管理 | [閱讀](https://www.bnext.com.tw/article/92218/ai-trainer) |
-| 矽谷超夯職缺，FDE在做什麼？工程師揭日常：把客戶沒說出口的需求「翻譯」成AI解方 | 5天前 | 職場與管理 | [閱讀](https://www.bnext.com.tw/article/92217/fde-linker-vision-consulting-service) |
-| AI愈強，企業愈需要哪些人？從FDE到AI訓練師，看懂3種人才的價值 | 5天前 | 職場與管理 | [閱讀](https://www.bnext.com.tw/article/92216/fde-ai-trainer-narrative-designer-ai-talent) |
-| AI能做80%的工作，剩下20%該留給誰？這5種決策千萬別交給AI | 5天前 | 職場與管理 | [閱讀](https://www.bnext.com.tw/article/92579/ai-automation-unoutsourceable) |
-| 請AI從1到10選數字，怎麼老是選「7」？6招提示詞，教你避開「平均答案」 | 5天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/92713/ai-prompts-avoid-generic-answers) |
-| 數位通縮是什麼？AI引爆軟體複製潮，創投如何解讀「SaaS 末日」與軟體新護城河？ | 6天前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92727/ai-software-deflation-saas-moats) |
-| AI巨頭瘋狂掃書，台灣也是供應來源！563公噸書籍運美，揭開Anthropic神祕「巴拿馬計畫」 | 6天前 | 技術與安全 / 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92633/ai-training-data-buying-destroying-physical-books-anthropic-amazon-openai) |
-| 蘋果10/28辦發表會！首款觸控OLED MacBook Pro將亮相：5大亮點、晶片配置、開賣時間一次看 | 6天前 | 產品發布與更新 | [閱讀](https://www.bnext.com.tw/article/92718/apple-pro-and-tell-touch-oled-macbook-pro) |
-| 你的AI越聊越笨？專家揭7種「上下文腐爛」徵兆：何時該開新對話，高效激發AI內容？ | 1星期前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/92708/ai-context-rot-seven-signs-start-new-chat) |
-| 親友傳「幫我投票一下」，小心LINE帳號被騙走！官方3步驟防詐、自救步驟一次看 | 1星期前 | 技術與安全 / 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/92704/line-voting-scam-account-hijack) |
-| 「恨不得AI取代我」！東台精機被缺工逼急，自建AI代理讓產線提案最快6分鐘完成 | 1星期前 | 企業應用案例 | [閱讀](https://www.bnext.com.tw/article/92694/tongtai-machine-cps-agent-ai) |
-| 東元不只賣馬達了！靠「模組化」搶攻AI資料中心商機，拚千億營收 | 1星期前 | 企業應用案例 / 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92684/2026-teco-70) |
 
 ---
 
@@ -220,6 +204,7 @@
 - [Claude Opus 4.7提示詞攻略!Anthropic官方曝5大調整,如何讓舊prompt一次升級?](https://www.bnext.com.tw/article/91048/claude-opus-4-7-prompting-guide-for-better-responses)
 
 ### 企業應用案例
+- [AI轉型不只導入工具，更要培養人才！從組織升級到製造現場，打造產業AI即戰力](https://www.bnext.com.tw/article/92957/2026aitalentforum)
 - [聚焦中小企業AI應用！臺英中小企業AI論壇從數位韌性、節能減碳到女性領導力，分享轉型實務](https://www.bnext.com.tw/article/92863/UK%E2%80%93TaiwanSMEAIForum)
 - [老師傅退休，技術跟著消失怎麼辦？華夏玻璃用AI搶救30年製造經驗](https://www.bnext.com.tw/article/92406/https://www.bnext.com.tw/article/92406/hwahsiaglass-aifurnace)
 - [73歲董事長帶頭學AI！百年食品大廠福壽砸數億元改造產線，如何再戰100年？](https://www.bnext.com.tw/article/92407/https://www.bnext.com.tw/article/92407/fwusow-ai)
@@ -285,6 +270,11 @@
 - [幫富士康、永豐餘做虛擬分身!他導入AI把20人團隊精簡到4人、產能反拉5倍](https://www.bnext.com.tw/article/91049/ai-professionals-rubens)
 
 ### 產業動態與市場
+- [黃仁勳坦承婚外情，對象疑涉中國間諜！輝達啟動獨立調查](https://www.bnext.com.tw/article/92969/jensen-huang-affair-nvidia-china-spy-investigation)
+- [Claude Code明星產品經理跳槽OpenAI！Cat Wu有何本事？為何成AI巨頭搶才目標？](https://www.bnext.com.tw/article/92950/cat-wu-claude-code-anthropic-openai)
+- [全美爆發「反資料中心」投票潮！38地區通過禁令、過半選民反對，AI擴張面臨政治逆風](https://www.bnext.com.tw/article/92933/us-midterms-data-center-ballot-backlash)
+- [民主黨拿下參眾兩院，美國AI資料中心建設會卡關嗎？專家解析3大變數](https://www.bnext.com.tw/article/92921/us-midterm-election-ai-stocks-wu-chin-jung)
+- [Canva爆13年最大重組！1,271人受影響佔22%員工、三大部門合一，CEO坦言成長10年來首放緩](https://www.bnext.com.tw/article/92909/canva-restructuring-1271-staff-impacted)
 - [Anthropic更新S-1招股文件！Q3營收近170億美元爆增12倍，首揭算力承諾達8954億美元](https://www.bnext.com.tw/article/92892/anthropic-s1a-q3-revenue-compute-commitments)
 - [觀點｜帳面大虧807億又如何？Anthropic手握1320億現金，沒有對IPO悲觀的理由](https://www.bnext.com.tw/article/92879/anthropic-ipo-s1-prospectus-compute-contracts)
 - [鴻海AI機櫃產能翻倍！劉揚偉揭代工龍頭難複製的兩大實力，為何看好AI不泡沫？](https://www.bnext.com.tw/article/92855/2026-foxconn-hhtd)
@@ -476,6 +466,9 @@
 - [從模型競爭走向算力經濟,INFINITIX 助客戶打造軟體定義 AI 基礎建設](https://www.bnext.com.tw/article/91042/infinitix_ai_2026_05)
 
 ### 職場與管理
+- [AI轉型不只導入工具，更要培養人才！從組織升級到製造現場，打造產業AI即戰力](https://www.bnext.com.tw/article/92957/2026aitalentforum)
+- [「我對MBA學生一直很失望！」奧特曼：別追5年前的熱門，現在該做新東西](https://www.bnext.com.tw/article/92956/sam-altman-mba-career-advice)
+- [Canva爆13年最大重組！1,271人受影響佔22%員工、三大部門合一，CEO坦言成長10年來首放緩](https://www.bnext.com.tw/article/92909/canva-restructuring-1271-staff-impacted)
 - [Google工程師面試變了！求職者可用Gemini，還考你懂不懂「指揮AI」](https://www.bnext.com.tw/article/92822/google-interview-gemini-ai-fluency)
 - [AI幫你做得愈快，可能錯得愈遠！如何用3個判斷關鍵，找出真正的市場需求？](https://www.bnext.com.tw/article/92847/ai-productivity-trap-how-to-avoid-wrong-decisions)
 - [Claude解題比人強，還考什麼？Anthropic主管取消程式面試：「衝勁」比年資重要！](https://www.bnext.com.tw/article/92821/anthropic-engineer-drops-coding-interview)
@@ -547,6 +540,9 @@
 - [無痛跳槽新AI工具!他教一招省力心法+提示詞,不必啃教學影片](https://www.bnext.com.tw/article/91043/how-to-adopt-ai-tools)
 
 ### 教學與工具應用
+- [受不了YouTube推爛片？AI大神用Claude自建「精華版YT」，如何4步驟客製化專屬推薦系統？](https://www.bnext.com.tw/article/92965/karpathy-hackertube-claude-youtube-alternative)
+- [ChatGPT動畫GIF怎麼做？免費版能用嗎？照片轉動畫、速度調整教學，附10組實用提示詞](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
+- [怎麼讓ChatGPT推薦你的文章？2,484次實測揭密：「改標題」就能讓AI引用率飆升](https://www.bnext.com.tw/article/92922/geo-ai-agents-recommend-articles-7-rules)
 - [別讓AI只做雜事！Anthropic主管公開「野心提示詞」3招，如何徹底釋放Claude極限？](https://www.bnext.com.tw/article/92896/claude-ambition-altitude-depth-range)
 - [ChatGPT照片風格轉換大全！115種風格玩法，手繪插畫、Q版公仔、復古風景海報一次學](https://www.bnext.com.tw/article/92869/chatgpt-image-prompts-photo-style)
 - [ChatGPT生活風指令大全！LINE貼圖、月曆、旅遊行程表…30組實用提示詞一次看](https://www.bnext.com.tw/article/92865/chatgpt-image-prompts-life-creative)
@@ -654,6 +650,9 @@
 - [無痛跳槽新AI工具!他教一招省力心法+提示詞,不必啃教學影片](https://www.bnext.com.tw/article/91043/how-to-adopt-ai-tools)
 
 ### 政策與法規
+- [「立即暫停全美資料中心建設！」民主黨議員擬推「超級AI禁令」草案，罪刑比照核武罪](https://www.bnext.com.tw/article/92963/democrats-asi-ban-data-center-moratorium)
+- [全美爆發「反資料中心」投票潮！38地區通過禁令、過半選民反對，AI擴張面臨政治逆風](https://www.bnext.com.tw/article/92933/us-midterms-data-center-ballot-backlash)
+- [民主黨拿下參眾兩院，美國AI資料中心建設會卡關嗎？專家解析3大變數](https://www.bnext.com.tw/article/92921/us-midterm-election-ai-stocks-wu-chin-jung)
 - [公司導入AI，有哪些補助可以申請？2026政府AI補助、申請資格與期限一次看](https://www.bnext.com.tw/article/92736/sme-ai-subsidy-tax-credit-2026)
 - [經營臉書粉專，恐授權Meta爬取你的官網？一則新條款，為何讓網站業者人心惶惶](https://www.bnext.com.tw/article/92714/meta-commercial-terms-web-scraping)
 - [台灣主權AI語料庫僅1%來自民間！想讓AI懂台灣，為何這麼難？](https://www.bnext.com.tw/article/92675/taiwan-sovereign-ai-corpus-copyright-law)
