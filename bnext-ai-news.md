@@ -1,8 +1,8 @@
 # bnext AI 新聞摘要總覽
 
 > 來源：[數位時代「AI 與大數據」分類頁](https://www.bnext.com.tw/categories/ai)  
-> 整理日期：2026-11-16  
-> 追蹤最新 20 頁、共計 487 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
+> 整理日期：2026-11-20  
+> 追蹤最新 20 頁、共計 497 篇文章，涵蓋 AI 產品發布、企業應用、產業動態、職場管理等主題。
 
 ---
 
@@ -10,10 +10,10 @@
 
 | 項目 | 數量 |
 |------|------|
-| 文章總數 | 487 篇 |
-| 本次新增 | 17 篇 |
+| 文章總數 | 497 篇 |
+| 本次新增 | 10 篇 |
 | 主題分類 | 8 大類 |
-| 更新日期 | 2026-11-16 |
+| 更新日期 | 2026-11-20 |
 
 ---
 
@@ -21,7 +21,22 @@
 
 保留最近 2 次更新新增的文章, 發布時間為抓取當下的相對時間.
 
-### 2026-11-16 本次新增 (17 篇)
+### 2026-11-20 本次新增 (10 篇)
+
+| 標題 | 發布時間 | 分類 | 連結 |
+|------|----------|------|------|
+| Google AI變聰明了！Gemini 4 Neon緊追GPT-6.2與Claude Fable 5.2，寫程式奪第一 | 1天前 | 產品發布與更新 / 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/93119/google-gemini-4-neon-launch-pricing) |
+| Claude又跳「已達使用上限」？5招讓額度更耐用，工作別做到一半卡住 | 1天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/93115/claude-usage-limit-saving-tips) |
+| AI界重大突破！MIT研究新發現：AI能直接修改另一個AI，不用重新訓練就能變強 | 1天前 | 技術與安全 | [閱讀](https://www.bnext.com.tw/article/93114/mit-llm-weight-space-programming) |
+| AI泡沫疑慮升溫！輝達為何不怕？除了賣GPU，還想靠這門生意年年賺 | 1天前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92683/nvidia-revenue-structure-software-licensing) |
+| 買了Google AI Pro只會用Gemini聊天？這8種隱藏AI工具，幫你把訂閱費用好用滿 | 1天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/93098/google-ai-pro-8-tools-features-tutorial) |
+| 效能逼近Claude價格只要5%！微軟Ignite連發7款MAI模型搶市，主打「便宜又夠用」 | 2天前 | 產品發布與更新 / 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/93105/microsoft-mai-seven-models-ignite-2026) |
+| GPT-6.2 Astra與Sol登場！OpenAI旗艦模型降價2成、3D評測奪冠，寫程式代理卻遭疑原地踏步 | 2天前 | 產品發布與更新 | [閱讀](https://www.bnext.com.tw/article/93103/openai-gpt-6-2-astra-sol-launch) |
+| Claude母公司上市掀搶購潮！Anthropic認購需求近7倍，台灣人怎麼買？ | 2天前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/93102/anthropic-ipo-ant-nasdaq-taiwan-how-to-buy) |
+| 你只用到Claude的一成功力？17個進階技巧，記憶、Projects、提示詞設定一次學 | 2天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/93067/claude-17-advanced-tips-memory-projects-prompts) |
+| 蘋果智慧眼鏡鎖定2027亮相！主打Siri語音操控第三方App，動口就能叫車、點咖啡 | 4天前 | 產品發布與更新 | [閱讀](https://www.bnext.com.tw/article/93073/apple-smart-glasses-siri-third-party-apps) |
+
+### 2026-11-16 前次新增 (17 篇)
 
 | 標題 | 發布時間 | 分類 | 連結 |
 |------|----------|------|------|
@@ -43,27 +58,15 @@
 | Anthropic執行長被問倒了？印度投資人揭隱憂：AI愈強，合作夥伴愈難生存 | 6天前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92968/ai-wealth-inequality-compute-economy) |
 | 不滿蘋果AI進度落後！CEO特納斯密會軟體主管施壓，要Siri加速「Agent化」 | 6天前 | 產業動態與市場 / 產品發布與更新 | [閱讀](https://www.bnext.com.tw/article/92975/apple-ternus-siri-ai-agent) |
 
-### 2026-11-09 前次新增 (11 篇)
-
-| 標題 | 發布時間 | 分類 | 連結 |
-|------|----------|------|------|
-| 黃仁勳坦承婚外情，對象疑涉中國間諜！輝達啟動獨立調查 | 49分前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92969/jensen-huang-affair-nvidia-china-spy-investigation) |
-| 「立即暫停全美資料中心建設！」民主黨議員擬推「超級AI禁令」草案，罪刑比照核武罪 | 2天前 | 政策與法規 | [閱讀](https://www.bnext.com.tw/article/92963/democrats-asi-ban-data-center-moratorium) |
-| 受不了YouTube推爛片？AI大神用Claude自建「精華版YT」，如何4步驟客製化專屬推薦系統？ | 2天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/92965/karpathy-hackertube-claude-youtube-alternative) |
-| AI轉型不只導入工具，更要培養人才！從組織升級到製造現場，打造產業AI即戰力 | 2天前 | 企業應用案例 / 職場與管理 | [閱讀](https://www.bnext.com.tw/article/92957/2026aitalentforum) |
-| 「我對MBA學生一直很失望！」奧特曼：別追5年前的熱門，現在該做新東西 | 2天前 | 職場與管理 | [閱讀](https://www.bnext.com.tw/article/92956/sam-altman-mba-career-advice) |
-| Claude Code明星產品經理跳槽OpenAI！Cat Wu有何本事？為何成AI巨頭搶才目標？ | 2天前 | 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92950/cat-wu-claude-code-anthropic-openai) |
-| ChatGPT動畫GIF怎麼做？免費版能用嗎？照片轉動畫、速度調整教學，附10組實用提示詞 | 2天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts) |
-| 全美爆發「反資料中心」投票潮！38地區通過禁令、過半選民反對，AI擴張面臨政治逆風 | 3天前 | 政策與法規 / 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92933/us-midterms-data-center-ballot-backlash) |
-| 怎麼讓ChatGPT推薦你的文章？2,484次實測揭密：「改標題」就能讓AI引用率飆升 | 3天前 | 教學與工具應用 | [閱讀](https://www.bnext.com.tw/article/92922/geo-ai-agents-recommend-articles-7-rules) |
-| 民主黨拿下參眾兩院，美國AI資料中心建設會卡關嗎？專家解析3大變數 | 4天前 | 政策與法規 / 產業動態與市場 | [閱讀](https://www.bnext.com.tw/article/92921/us-midterm-election-ai-stocks-wu-chin-jung) |
-| Canva爆13年最大重組！1,271人受影響佔22%員工、三大部門合一，CEO坦言成長10年來首放緩 | 4天前 | 產業動態與市場 / 職場與管理 | [閱讀](https://www.bnext.com.tw/article/92909/canva-restructuring-1271-staff-impacted) |
-
 ---
 
 ## 主題分類
 
 ### 產品發布與更新
+- [Google AI變聰明了！Gemini 4 Neon緊追GPT-6.2與Claude Fable 5.2，寫程式奪第一](https://www.bnext.com.tw/article/93119/google-gemini-4-neon-launch-pricing)
+- [效能逼近Claude價格只要5%！微軟Ignite連發7款MAI模型搶市，主打「便宜又夠用」](https://www.bnext.com.tw/article/93105/microsoft-mai-seven-models-ignite-2026)
+- [GPT-6.2 Astra與Sol登場！OpenAI旗艦模型降價2成、3D評測奪冠，寫程式代理卻遭疑原地踏步](https://www.bnext.com.tw/article/93103/openai-gpt-6-2-astra-sol-launch)
+- [蘋果智慧眼鏡鎖定2027亮相！主打Siri語音操控第三方App，動口就能叫車、點咖啡](https://www.bnext.com.tw/article/93073/apple-smart-glasses-siri-third-party-apps)
 - [Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍](https://www.bnext.com.tw/article/93061/gemini-4-hydrogen-launch)
 - [輸出Token免費！Google推出決策模型Gemini Decision 1，不逐字生成直接替選項打分](https://www.bnext.com.tw/article/93032/google-gemini-decision-1-decisions-api)
 - [IPO前夕發表AI辦公套件！Anthropic推出Claude Sheets，正面挑戰微軟與Google](https://www.bnext.com.tw/article/93022/anthropic-claude-sheets-office-tools-ipo)
@@ -268,6 +271,10 @@
 - [幫富士康、永豐餘做虛擬分身!他導入AI把20人團隊精簡到4人、產能反拉5倍](https://www.bnext.com.tw/article/91049/ai-professionals-rubens)
 
 ### 產業動態與市場
+- [Google AI變聰明了！Gemini 4 Neon緊追GPT-6.2與Claude Fable 5.2，寫程式奪第一](https://www.bnext.com.tw/article/93119/google-gemini-4-neon-launch-pricing)
+- [AI泡沫疑慮升溫！輝達為何不怕？除了賣GPU，還想靠這門生意年年賺](https://www.bnext.com.tw/article/92683/nvidia-revenue-structure-software-licensing)
+- [效能逼近Claude價格只要5%！微軟Ignite連發7款MAI模型搶市，主打「便宜又夠用」](https://www.bnext.com.tw/article/93105/microsoft-mai-seven-models-ignite-2026)
+- [Claude母公司上市掀搶購潮！Anthropic認購需求近7倍，台灣人怎麼買？](https://www.bnext.com.tw/article/93102/anthropic-ipo-ant-nasdaq-taiwan-how-to-buy)
 - [奧特曼與三星閉門會面內幕！示警AI算力需求恐「重複計算」，親揭OpenAI賺錢術](https://www.bnext.com.tw/article/93054/sam-altman-samsung-ai-compute-demand-openai)
 - [黃仁勳離開輝達後，晶片可以繼續賣，但誰能看見下一個AI浪潮？](https://www.bnext.com.tw/article/93044/nvidia-jensen-huang-step-down-successor-challenge)
 - [黃仁勳辭去輝達CEO！結束33年掌舵生涯，財務長暫代執行長、董事會啟動接班](https://www.bnext.com.tw/article/93043/jensen-huang-resigns-nvidia-ceo-colette-kress-interim)
@@ -392,6 +399,7 @@
 - [行銷人AI實戰指南!「Gemini+NotebookLM」工作流,把10小時市場研究壓縮成20分鐘](https://www.bnext.com.tw/article/91075/gemini-notebooklm-8-step-market-research-workflow)
 
 ### 技術與安全
+- [AI界重大突破！MIT研究新發現：AI能直接修改另一個AI，不用重新訓練就能變強](https://www.bnext.com.tw/article/93114/mit-llm-weight-space-programming)
 - [幣安史上最大劫案！FBI控北韓駭客盜走60億美元，活動代號「TraderTraitor」有何來頭？](https://www.bnext.com.tw/article/92875/fbi-north-korea-binance-6-billion-crypto-hack)
 - [OpenAI宣稱推翻「指數時間假設」，震撼電腦科學界！ETH是什麼，為何牽動數百篇研究？](https://www.bnext.com.tw/article/92849/openai-exponential-time-hypothesis-eth)
 - [不敢把密碼交給AI？Claude攜手密碼管理平台1Password，5步驟設定實現AI代理自動登入](https://www.bnext.com.tw/article/92807/1password-claude-ai-agent-login-guide)
@@ -551,6 +559,9 @@
 - [無痛跳槽新AI工具!他教一招省力心法+提示詞,不必啃教學影片](https://www.bnext.com.tw/article/91043/how-to-adopt-ai-tools)
 
 ### 教學與工具應用
+- [Claude又跳「已達使用上限」？5招讓額度更耐用，工作別做到一半卡住](https://www.bnext.com.tw/article/93115/claude-usage-limit-saving-tips)
+- [買了Google AI Pro只會用Gemini聊天？這8種隱藏AI工具，幫你把訂閱費用好用滿](https://www.bnext.com.tw/article/93098/google-ai-pro-8-tools-features-tutorial)
+- [你只用到Claude的一成功力？17個進階技巧，記憶、Projects、提示詞設定一次學](https://www.bnext.com.tw/article/93067/claude-17-advanced-tips-memory-projects-prompts)
 - [用Claude一次整理出國行程！免費版製作旅遊網站，航班、地圖、記帳全都有](https://www.bnext.com.tw/article/93065/claude-travel-itinerary-website-tutorial)
 - [受不了YouTube推爛片？AI大神用Claude自建「精華版YT」，如何4步驟客製化專屬推薦系統？](https://www.bnext.com.tw/article/92965/karpathy-hackertube-claude-youtube-alternative)
 - [ChatGPT動畫GIF怎麼做？免費版能用嗎？照片轉動畫、速度調整教學，附10組實用提示詞](https://www.bnext.com.tw/article/92943/chatgpt-gif-generator-prompts)
